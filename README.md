@@ -93,11 +93,14 @@ Outro objetivo importante é identificar as divergências entre os pesquisadores
 
 ### 2.2. Escopo do Produto
 
-O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário. O paciente terá acesso restrito apenas aos seus próprios dados, incluindo histórico de consultas, exames e diagnósticos. 
-Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos. 
-Por fim, os administradores, representados pelos desenvolvedores do software, terão acesso total ao sistema com a responsabilidade de gerenciar, manter e garantir o bom funcionamento da plataforma.
+O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário. 
+* O paciente terá acesso restrito apenas aos seus próprios dados, incluindo histórico de consultas, exames e diagnósticos. 
+* Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos. 
+* Por fim, os administradores, representados pelos desenvolvedores do software, terão acesso total ao sistema com a responsabilidade de gerenciar, manter e garantir o bom funcionamento da plataforma.
 
-O sistema será projetado com base nos avanços e desafios apontados em pesquisas sobre prontuários eletrônicos no Brasil, considerando questões como padronização de dados, interoperabilidade, privacidade e usabilidade. Busca-se desenvolver uma ferramenta que, além de oferecer maior eficiência no registro e monitoramento das informações de saúde, contribua para superar obstáculos já identificados em outras implementações, como dificuldades de adaptação dos profissionais e limitações de infraestrutura. O escopo também contempla a integração de medidas de segurança robustas, suporte a processos de triagem mais eficientes e a criação de relatórios que auxiliem gestores e profissionais na tomada de decisão, visando melhorar a qualidade do atendimento em saúde de forma prática, acessível e confiável.
+O sistema será projetado com base nos avanços e desafios apontados em pesquisas sobre prontuários eletrônicos no Brasil, considerando questões como padronização de dados, interoperabilidade, privacidade e usabilidade. 
+*Busca-se desenvolver uma ferramenta que, além de oferecer maior eficiência no registro e monitoramento das informações de saúde, contribua para superar obstáculos identificados em outras implementações, como dificuldades de adaptação dos profissionais e limitações de infraestrutura. 
+*Integração de medidas de segurança, suporte a processos de triagem mais eficientes e a criação de relatórios que auxiliem gestores e profissionais na tomada de decisão, visando melhorar a qualidade do atendimento em saúde de forma prática, acessível e confiável.
 
 ### 2.3. Descriçao Geral do Produto
 
