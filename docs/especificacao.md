@@ -18,6 +18,7 @@ O sistema será projetado com base nos avanços e desafios apontados em pesquisa
 
 Busca-se desenvolver uma ferramenta que, além de oferecer maior eficiência no registro e monitoramento das informações de saúde, contribua para superar obstáculos identificados em outras implementações, como dificuldades de adaptação dos profissionais e limitações de infraestrutura.
 Integração de medidas de segurança, suporte a processos de triagem mais eficientes e a criação de relatórios que auxiliem gestores e profissionais na tomada de decisão, visando melhorar a qualidade do atendimento em saúde de forma prática, acessível e confiável.
+
 ### 3.2.2 Missão do produto
 Centralizar e organizar o histórico de saúde dos pacientes em um portal seguro, promovendo a continuidade do cuidado, agilidade na triagem, precisão nos diagnósticos e a interoperabilidade das informações entre diferentes instituições de saúde.
 
