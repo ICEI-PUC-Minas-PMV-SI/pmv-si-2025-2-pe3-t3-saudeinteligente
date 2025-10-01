@@ -2,7 +2,10 @@
 
 Nesta seção, serão detalhados os requisitos funcionais e não funcionais do Sistema de Prontuário Eletrônico, considerando o cenário atual das pesquisas sobre o tema, os desafios identificados e as necessidades de profissionais e pacientes. O objetivo é definir de forma clara as funcionalidades e as condições necessárias para que o sistema atenda às demandas de segurança, acessibilidade e eficiência no registro e acompanhamento de informações médicas.
 
-3.0.1. Requisitos Funcionais
+
+## 3.1 Objetivos deste documento
+
+### 3.1.1. Requisitos Funcionais
 
 Os requisitos funcionais descrevem as funções que o sistema deve executar. Entre eles, destacam-se:
 
@@ -26,7 +29,7 @@ Administradores (desenvolvedores/gestores do sistema) gerenciam cadastros, permi
 
 * Relatórios Médicos: geração de relatórios para auxiliar no diagnóstico e acompanhamento da saúde do paciente.
 
-3.0.2. Requisitos Não Funcionais
+### 3.1.2. Requisitos Não Funcionais
 
 Os requisitos não funcionais estabelecem características de qualidade e restrições do sistema:
 
@@ -42,7 +45,7 @@ Os requisitos não funcionais estabelecem características de qualidade e restri
 
 * Privacidade: cumprimento da LGPD (Lei Geral de Proteção de Dados) para proteger informações pessoais dos pacientes.
 
-3.0.3. Requisitos de Negócio
+### 3.1.3. Requisitos de Negócio
 
 * Melhorar a organização e a eficiência dos serviços de saúde por meio da digitalização de informações.
 
@@ -52,10 +55,6 @@ Os requisitos não funcionais estabelecem características de qualidade e restri
 
 * Disponibilizar dados confiáveis para apoiar a tomada de decisão clínica e a formulação de políticas públicas de saúde.
 
-## 3.1 Objetivos deste documento
-Descrever e especificar as necessidades dos Usuários do Sistema de Prontuário Eletrônico (PEP), incluindo Pacientes, Profissionais de Saúde (Médicos e Enfermeiros) e Gestores, que devem ser atendidas pelo projeto do Portal Seguro e Centralizado de Dados de Saúde.
-
-Este documento visa detalhar os requisitos funcionais, não funcionais e de usabilidade (DCU) que garantirão um sistema eficiente, interoperável e em conformidade com a legislação brasileira (LGPD).
 
 ## 3.2 Escopo do produto
 
