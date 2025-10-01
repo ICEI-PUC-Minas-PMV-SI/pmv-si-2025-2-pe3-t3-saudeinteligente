@@ -1,6 +1,56 @@
 # 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
 
-Nesta parte do trabalho você deve detalhar a documentação dos requisitos do sistema proposto de acordo com as seções a seguir. Ressalta-se que aqui é utilizado como exemplo um sistema de gestão de cursos de aperfeiçoamento.
+Nesta seção, serão detalhados os requisitos funcionais e não funcionais do Sistema de Prontuário Eletrônico, considerando o cenário atual das pesquisas sobre o tema, os desafios identificados e as necessidades de profissionais e pacientes. O objetivo é definir de forma clara as funcionalidades e as condições necessárias para que o sistema atenda às demandas de segurança, acessibilidade e eficiência no registro e acompanhamento de informações médicas.
+
+3.0.1. Requisitos Funcionais
+
+Os requisitos funcionais descrevem as funções que o sistema deve executar. Entre eles, destacam-se:
+
+* Cadastro de Usuários: possibilitar o registro de pacientes, médicos e administradores, com níveis de permissão distintos.
+
+* Autenticação Segura: acesso ao sistema somente por login e senha, garantindo segurança das informações.
+
+* Acesso Restrito:
+
+Pacientes podem visualizar apenas seus próprios dados (consultas, exames, diagnósticos).
+
+Médicos têm acesso apenas aos prontuários dos pacientes previamente agendados.
+
+Administradores (desenvolvedores/gestores do sistema) gerenciam cadastros, permissões e manutenção.
+
+* Registro de Consultas e Exames: inserção, edição e atualização de informações sobre atendimentos médicos.
+
+* Histórico de Saúde: manter o histórico completo do paciente, incluindo alergias, doenças pré-existentes, exames e tratamentos realizados.
+
+* Agendamento de Consultas: permitir que pacientes solicitem consultas e médicos visualizem sua agenda.
+
+* Relatórios Médicos: geração de relatórios para auxiliar no diagnóstico e acompanhamento da saúde do paciente.
+
+3.0.2. Requisitos Não Funcionais
+
+Os requisitos não funcionais estabelecem características de qualidade e restrições do sistema:
+
+* Segurança: utilização de protocolos de criptografia para proteger dados sensíveis.
+
+* Usabilidade: interface amigável, de fácil navegação para diferentes perfis de usuários.
+
+* Disponibilidade: sistema acessível online 24/7, garantindo continuidade no atendimento.
+
+* Escalabilidade: capacidade de suportar crescimento no número de usuários e registros sem perda de desempenho.
+
+* Interoperabilidade: possibilidade de integração futura com outros sistemas de saúde e bases de dados governamentais.
+
+* Privacidade: cumprimento da LGPD (Lei Geral de Proteção de Dados) para proteger informações pessoais dos pacientes.
+
+3.0.3. Requisitos de Negócio
+
+* Melhorar a organização e a eficiência dos serviços de saúde por meio da digitalização de informações.
+
+* Reduzir falhas no atendimento decorrentes da ausência ou duplicidade de registros médicos.
+
+* Aumentar a confiança dos profissionais e pacientes em relação ao armazenamento e compartilhamento seguro dos dados.
+
+* Disponibilizar dados confiáveis para apoiar a tomada de decisão clínica e a formulação de políticas públicas de saúde.
 
 ## 3.1 Objetivos deste documento
 Descrever e especificar as necessidades dos Usuários do Sistema de Prontuário Eletrônico (PEP), incluindo Pacientes, Profissionais de Saúde (Médicos e Enfermeiros) e Gestores, que devem ser atendidas pelo projeto do Portal Seguro e Centralizado de Dados de Saúde.
@@ -12,7 +62,7 @@ Este documento visa detalhar os requisitos funcionais, não funcionais e de usab
 ### 3.2.1 O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário.
 
 O paciente terá acesso restrito apenas aos seus próprios dados, incluindo histórico de consultas, exames e diagnósticos.
-Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos.
+Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente autorizados e agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos.
 Por fim, os administradores, representados pelos desenvolvedores do software, terão acesso total ao sistema com a responsabilidade de gerenciar, manter e garantir o bom funcionamento da plataforma.
 O sistema será projetado com base nos avanços e desafios apontados em pesquisas sobre prontuários eletrônicos no Brasil, considerando questões como padronização de dados, interoperabilidade, privacidade e usabilidade.
 
