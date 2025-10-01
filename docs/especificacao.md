@@ -58,7 +58,7 @@ Os requisitos não funcionais estabelecem características de qualidade e restri
 
 ## 3.2 Escopo do produto
 
-### 3.2.1 O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário.
+O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário.
 
 O paciente terá acesso restrito apenas aos seus próprios dados, incluindo histórico de consultas, exames e diagnósticos.
 Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente autorizados e agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos.
@@ -68,17 +68,17 @@ O sistema será projetado com base nos avanços e desafios apontados em pesquisa
 Busca-se desenvolver uma ferramenta que, além de oferecer maior eficiência no registro e monitoramento das informações de saúde, contribua para superar obstáculos identificados em outras implementações, como dificuldades de adaptação dos profissionais e limitações de infraestrutura.
 Integração de medidas de segurança, suporte a processos de triagem mais eficientes e a criação de relatórios que auxiliem gestores e profissionais na tomada de decisão, visando melhorar a qualidade do atendimento em saúde de forma prática, acessível e confiável.
 
-### 3.2.2 Missão do produto
+### 3.2.1 Missão do produto
 Centralizar e organizar o histórico de saúde dos pacientes em um portal seguro, promovendo a continuidade do cuidado, agilidade na triagem, precisão nos diagnósticos e a interoperabilidade das informações entre diferentes instituições de saúde.
 
-### 3.2.3 Limites do produto
+### 3.2.2 Limites do produto
 O Sistema de Prontuário Eletrônico não fornece:
 - Processamento de cobrança ou faturamento de procedimentos (integração com sistemas financeiros é um requisito não funcional).
 - Monitoramento remoto de dispositivos médicos (IoT).
 - Avaliação de desempenho ou remuneração de profissionais de saúde.
 - Serviços de telemedicina nativa (integração com plataformas de vídeo será considerada um requisito não funcional).
 
-### 3.2.4 Benefícios do produto
+### 3.2.3 Benefícios do produto
 
 | # | Benefício | Valor para o Cliente |
 |--------------------|------------------------------------|----------------------------------------|
