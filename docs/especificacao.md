@@ -9,13 +9,15 @@ Este documento visa detalhar os requisitos funcionais, não funcionais e de usab
 
 ## 3.2 Escopo do produto
 
-### 3.2.1 Nome do produto e seus componentes principais
-O produto será denominado Sistema Inteligente de Prontuário Eletrônico (PEP). Ele será composto por três módulos principais:
+### 3.2.1 O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário.
 
-- Módulo Clínico: Para uso dos profissionais de saúde (registro de consultas, evolução, diagnóstico).
-- Módulo do Paciente: Portal de acesso restrito ao próprio histórico, agendamentos e resultados.
-- Módulo Administrativo/Gerencial: Para controle de acesso, auditoria e geração de relatórios.
+O paciente terá acesso restrito apenas aos seus próprios dados, incluindo histórico de consultas, exames e diagnósticos.
+Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos.
+Por fim, os administradores, representados pelos desenvolvedores do software, terão acesso total ao sistema com a responsabilidade de gerenciar, manter e garantir o bom funcionamento da plataforma.
+O sistema será projetado com base nos avanços e desafios apontados em pesquisas sobre prontuários eletrônicos no Brasil, considerando questões como padronização de dados, interoperabilidade, privacidade e usabilidade.
 
+Busca-se desenvolver uma ferramenta que, além de oferecer maior eficiência no registro e monitoramento das informações de saúde, contribua para superar obstáculos identificados em outras implementações, como dificuldades de adaptação dos profissionais e limitações de infraestrutura.
+Integração de medidas de segurança, suporte a processos de triagem mais eficientes e a criação de relatórios que auxiliem gestores e profissionais na tomada de decisão, visando melhorar a qualidade do atendimento em saúde de forma prática, acessível e confiável.
 ### 3.2.2 Missão do produto
 Centralizar e organizar o histórico de saúde dos pacientes em um portal seguro, promovendo a continuidade do cuidado, agilidade na triagem, precisão nos diagnósticos e a interoperabilidade das informações entre diferentes instituições de saúde.
 
@@ -36,6 +38,16 @@ O Sistema de Prontuário Eletrônico não fornece:
 |4	| Lembretes de consultas	| Recomendável | 
 
 ## 3.3 Descrição geral do produto
+
+O desenvolvimento de um sistema de Prontuário Eletrônico, com acesso protegido por login e senha, destinado a três perfis principais de usuários: pacientes, médicos e administradores. O sistema será estruturado para garantir a segurança e a confidencialidade das informações, respeitando o nível de acesso de cada usuário.
+
+O paciente terá acesso restrito apenas aos seus próprios dados, incluindo histórico de consultas, exames e diagnósticos.
+Já os médicos terão acesso exclusivo aos dados dos pacientes que forem previamente agendados, possibilitando consultas mais rápidas e diagnósticos mais precisos.
+Por fim, os administradores, representados pelos desenvolvedores do software, terão acesso total ao sistema com a responsabilidade de gerenciar, manter e garantir o bom funcionamento da plataforma.
+O sistema será projetado com base nos avanços e desafios apontados em pesquisas sobre prontuários eletrônicos no Brasil, considerando questões como padronização de dados, interoperabilidade, privacidade e usabilidade.
+
+Busca-se desenvolver uma ferramenta que, além de oferecer maior eficiência no registro e monitoramento das informações de saúde, contribua para superar obstáculos identificados em outras implementações, como dificuldades de adaptação dos profissionais e limitações de infraestrutura.
+Integração de medidas de segurança, suporte a processos de triagem mais eficientes e a criação de relatórios que auxiliem gestores e profissionais na tomada de decisão, visando melhorar a qualidade do atendimento em saúde de forma prática, acessível e confiável.
 
 ### 3.3.1 Requisitos Funcionais
 
