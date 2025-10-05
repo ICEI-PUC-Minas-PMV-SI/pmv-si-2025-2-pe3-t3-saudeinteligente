@@ -114,8 +114,7 @@ Integração de medidas de segurança, suporte a processos de triagem mais efici
 |---|---|---|
 | RNF1 | Segurança/Legal | O sistema deve cumprir integralmente com a LGPD, com criptografia de ponta-a-ponta e controle de acesso baseado no Princípio do Mínimo Privilégio. |
 | RNF02 | Usabilidade (DCU) | O tempo para realizar o registro completo de um atendimento de rotina (evolução) não deve ultrapassar 2 minutos, a fim de combater a resistência profissional. |
-| RNF03 | Desempenho | Qualquer tela ou relatório deve ser carregado em no máximo 2 segundos. |
-| RNF04 | Ambiente | A interface do usuário deve ser responsiva, funcionando corretamente em desktops, tablets e smartphones. |
+| RNF03 | Ambiente | A interface do usuário deve ser responsiva, funcionando corretamente em desktops, tablets e smartphones. |
 
 ### 3.3.3 Usuários 
 
@@ -132,7 +131,8 @@ A Figura 1 ilustra as interações primárias entre os atores e o Sistema de Pro
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
-<img width="440" height="657" alt="image" src="https://github.com/user-attachments/assets/82dc170a-766f-45c8-aa6a-0201da68174f" />
+<img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/b4c4c96d-32bc-4cbb-9521-33ff08ff2881" />
+
 
 
 
