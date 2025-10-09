@@ -114,7 +114,203 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 * Suporte técnico ágil e confiável.
 
 ## 4.2 Mapa de Empatia
-Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O objetivo é obter um nível mais profundo de compreensão de uma persona. A seguir um exemplo de template que pode ser usado para o mapa de empatia. Para cada persona deverá ser apresentado o seu respectivo mapa de empatia. Sugere-se a utilização do template apresentado em https://www.rdstation.com/blog/marketing/mapa-da-empatia/.
+O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e expectativas de cada perfil de usuário do Sistema de Prontuário Eletrônico Online. Essa análise é essencial para orientar o desenvolvimento do software, garantindo uma experiência mais eficiente, segura e centrada no usuário — desde o paciente até o gestor do sistema.
+Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
+
+### 4.2.1 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
+### Quem é ela?
+* 38 anos, médica clínica geral em uma unidade pública de saúde. Possui familiaridade média com tecnologia e realiza dezenas de atendimentos por dia.
+
+### O que ela pensa e sente?
+
+* Quer oferecer atendimento de qualidade com base em informações completas do paciente.
+
+* Sente frustração com sistemas lentos e pouco integrados.
+
+* Valoriza a eficiência e a segurança na troca de dados clínicos.
+
+### O que ela vê?
+
+* Sistemas desatualizados e desconectados entre clínicas e hospitais.
+
+* Dificuldade em acessar o histórico completo do paciente.
+
+* Pacientes impacientes com demora no atendimento.
+
+### O que ela ouve?
+
+* Reclamações de colegas sobre falhas técnicas e lentidão.
+
+Orientações dos gestores sobre a importância da digitalização.
+
+* Expectativas dos pacientes por um atendimento mais ágil.
+
+### O que ela fala e faz?
+
+* Reclama quando o sistema é ineficiente ou trava.
+
+* Utiliza recursos tecnológicos apenas quando são realmente úteis.
+
+* Defende a implantação de sistemas integrados e de fácil uso.
+
+### Dores (frustrações):
+
+* Tempo perdido com registros manuais e repetitivos.
+
+* Falta de integração entre especialidades e unidades de saúde.
+
+### Necessidades:
+
+* Interface intuitiva e responsiva.
+
+* Acesso restrito, mas completo, aos prontuários dos pacientes agendados.
+
+* Ferramentas que integrem dados entre diferentes unidades.
+
+### 4.2.2 Mapa da Empatia – Persona 2: João Henrique da Silva (Paciente Usuário do Sistema)
+
+### Quem é ele?
+* 45 anos, motorista de aplicativo, com familiaridade média-baixa com tecnologia. Utiliza o sistema para acessar consultas e resultados de exames.
+
+### O que ele pensa e sente?
+
+* Deseja acompanhar sua saúde de forma simples e prática.
+
+* Sente insegurança quando não entende resultados médicos.
+
+* Quer ter autonomia sobre suas informações.
+
+### O que ele vê?
+
+* Falta de comunicação entre clínicas e hospitais.
+
+* Dificuldade em acessar exames e diagnósticos antigos.
+
+* Poucos sistemas realmente fáceis de usar.
+
+### O que ele ouve?
+
+* Comentários de outros pacientes sobre confusão com agendamentos.
+
+* Médicos pedindo informações que ele já forneceu anteriormente.
+
+### O que ele fala e faz?
+
+* Reclama da dificuldade em lembrar horários e datas.
+
+* Procura sistemas que o notifiquem automaticamente sobre exames e consultas.
+
+* Evita usar sistemas complicados ou com linguagens técnicas.
+
+### Dores (frustrações):
+
+* Falta de centralização dos dados de saúde.
+
+* Interfaces confusas e linguagem técnica difícil.
+
+### Necessidades:
+
+* Acesso protegido por senha apenas aos próprios dados.
+
+* Interface simples, intuitiva e com linguagem acessível.
+
+* Notificações automáticas sobre consultas e resultados.
+
+### 4.2.3 Mapa da Empatia – Persona 3: Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
+
+### Quem é ele?
+* 29 anos, analista de sistemas e desenvolvedor full stack. É responsável pela manutenção, segurança e evolução do sistema de prontuário eletrônico.
+
+### O que ele pensa e sente?
+
+* Busca criar um sistema confiável, seguro e de fácil manutenção.
+
+* Sente pressão para atender requisitos técnicos e legais.
+
+* Gosta de resolver problemas e otimizar processos.
+
+### O que ele vê?
+
+* Dificuldade em padronizar dados de diferentes sistemas.
+
+* Solicitações constantes de melhorias e correções.
+
+* Falta de documentação em muitos sistemas públicos.
+
+### O que ele ouve?
+
+* Reclamações de médicos sobre lentidão e falhas.
+
+* Demandas de gestores por mais relatórios e segurança.
+
+### O que ele fala e faz?
+
+* Monitora logs de acesso e desempenho.
+
+* Prioriza a segurança e a escalabilidade.
+
+* Implementa melhorias baseadas no feedback dos usuários.
+
+### Dores (frustrações):
+
+* Falta de integração entre sistemas legados e novas tecnologias.
+
+* Falta de padronização de dados e APIs.
+
+### Necessidades:
+
+* Painel administrativo completo para controle de permissões e cadastros.
+
+* Logs detalhados e auditoria de acessos.
+
+* Ferramentas automatizadas para manutenção e backup.
+
+### 4.2.4 Mapa da Empatia – Persona 4: Carla Mendes Rocha (Gestora de Unidade de Saúde)
+
+### Quem é ela?
+* 50 anos, coordenadora administrativa de clínica municipal, com nível médio de familiaridade com tecnologia. É responsável por acompanhar a produtividade da equipe e a eficiência dos atendimentos.
+
+### O que ela pensa e sente?
+
+* Quer maior controle e clareza sobre o fluxo de pacientes.
+
+* Sente dificuldade em obter relatórios precisos e atualizados.
+
+* Busca ferramentas que otimizem o trabalho da equipe.
+
+### O que ela vê?
+
+* Falta de integração de informações entre setores.
+
+* Profissionais com diferentes níveis de habilidade digital.
+
+* Processos administrativos lentos e manuais.
+
+### O que ela ouve?
+
+* Pressão de órgãos públicos por eficiência e transparência.
+
+* Solicitações de pacientes por melhorias no atendimento.
+
+# O que ela fala e faz?
+
+* Cobra relatórios e indicadores de desempenho da equipe.
+
+* Incentiva o uso do sistema, mas reclama da falta de suporte técnico.
+
+### Dores (frustrações):
+
+* Dificuldade em gerar relatórios consolidados.
+
+* Falta de métricas claras para tomada de decisão.
+
+### Necessidades:
+
+* Painel de controle com dashboards e relatórios de produtividade.
+
+* Ferramentas de cadastro e controle de permissões.
+
+* Suporte técnico rápido e eficaz.
 
 ## 4.3 Protótipos das Interfaces
 Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidades incorporadas a ele. Assim, um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidades. No desenvolvimento dos protótipos, devem ser considerados os princípios gestálticos, as recomendações ergonômicas e as regras de design (como as 8 regras de ouro). É importante descrever no texto do relatório como os princípios gestálticos e as regras de ouro foram seguidas no projeto das interfaces. Nesta etapa deve-se dar uma ênfase na implementação do software de modo que possam ser realizados os testes com usuários na etapa seguinte.
