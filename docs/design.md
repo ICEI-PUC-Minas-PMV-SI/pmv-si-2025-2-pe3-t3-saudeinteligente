@@ -11,19 +11,19 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 
 * Nível de familiaridade com tecnologia: Médio
 
-### Objetivos:
+Objetivos:
 
 * Acessar rapidamente o histórico de pacientes durante as consultas.
 
 * Registrar diagnósticos, prescrições e encaminhamentos com segurança e agilidade.
 
-### Frustrações:
+Frustrações:
 
 * Dificuldade de acesso a informações completas sobre o paciente em diferentes sistemas.
 
 * Tempo gasto com preenchimentos manuais e lentidão de sistemas antigos.
 
-### Necessidades no sistema:
+Necessidades no sistema:
 
 * Interface intuitiva e rápida.
 
@@ -39,19 +39,19 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 
 * Nível de familiaridade com tecnologia: Médio-baixo
 
-### Objetivos:
+Objetivos:
 
 * Visualizar resultados de exames, histórico médico e próximas consultas.
 
 * Acompanhar diagnósticos e recomendações médicas de forma simples.
 
-### Frustrações:
+Frustrações:
 
 * Dificuldade em lembrar datas e informações de saúde.
 
 * Falta de comunicação entre clínicas e hospitais.
 
-### Necessidades no sistema:
+Necessidades no sistema:
 
 * Acesso protegido por senha a seus próprios dados.
 
@@ -67,19 +67,19 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 
 * Nível de familiaridade com tecnologia: Alto
 
-### Objetivos:
+Objetivos:
 
 * Garantir o bom funcionamento do sistema, mantendo segurança e estabilidade.
 
 * Implementar novas funcionalidades de forma escalável e segura.
 
-### Frustrações:
+Frustrações:
 
 * Falta de padronização de dados entre sistemas de saúde.
 
 * Dificuldade em integrar informações de diferentes bases e clínicas.
 
-### Necessidades no sistema:
+Necessidades no sistema:
 
 * Painel administrativo completo para gestão de usuários e permissões.
 
@@ -87,7 +87,7 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 
 * Ferramentas de manutenção e atualização automatizadas.
 
-### 4.1.4 Persona 4 – Carla Mendes Rocha (Gestora de Unidade de Saúde)
+4.1.4 Persona 4 – Carla Mendes Rocha (Gestora de Unidade de Saúde)
 
 * Idade: 50 anos
 
@@ -95,17 +95,17 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 
 * Nível de familiaridade com tecnologia: Médio
 
-### Objetivos:
+Objetivos:
 
 * Acompanhar o desempenho da equipe médica e a eficiência no atendimento.
 
 * Obter relatórios consolidados sobre o fluxo de pacientes e produtividade.
 
-### Frustrações:
+Frustrações:
 
 * Falta de relatórios centralizados e dificuldade de mensurar resultados.
 
-### Necessidades no sistema:
+Necessidades no sistema:
 
 * Acesso a dashboards com indicadores e relatórios de uso.
 
@@ -118,10 +118,11 @@ O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e 
 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
 ### 4.2.1 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
-### Quem é ela?
+Quem é ela?
+
 * 38 anos, médica clínica geral em uma unidade pública de saúde. Possui familiaridade média com tecnologia e realiza dezenas de atendimentos por dia.
 
-### O que ela pensa e sente?
+O que ela pensa e sente?
 
 * Quer oferecer atendimento de qualidade com base em informações completas do paciente.
 
@@ -129,7 +130,7 @@ Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Siste
 
 * Valoriza a eficiência e a segurança na troca de dados clínicos.
 
-### O que ela vê?
+O que ela vê?
 
 * Sistemas desatualizados e desconectados entre clínicas e hospitais.
 
@@ -137,7 +138,7 @@ Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Siste
 
 * Pacientes impacientes com demora no atendimento.
 
-### O que ela ouve?
+O que ela ouve?
 
 * Reclamações de colegas sobre falhas técnicas e lentidão.
 
@@ -145,7 +146,7 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Expectativas dos pacientes por um atendimento mais ágil.
 
-### O que ela fala e faz?
+O que ela fala e faz?
 
 * Reclama quando o sistema é ineficiente ou trava.
 
@@ -153,13 +154,13 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Defende a implantação de sistemas integrados e de fácil uso.
 
-### Dores (frustrações):
+Dores (frustrações):
 
 * Tempo perdido com registros manuais e repetitivos.
 
 * Falta de integração entre especialidades e unidades de saúde.
 
-### Necessidades:
+Necessidades:
 
 * Interface intuitiva e responsiva.
 
@@ -169,10 +170,11 @@ Orientações dos gestores sobre a importância da digitalização.
 
 ### 4.2.2 Mapa da Empatia – Persona 2: João Henrique da Silva (Paciente Usuário do Sistema)
 
-### Quem é ele?
+Quem é ele?
+
 * 45 anos, motorista de aplicativo, com familiaridade média-baixa com tecnologia. Utiliza o sistema para acessar consultas e resultados de exames.
 
-### O que ele pensa e sente?
+O que ele pensa e sente?
 
 * Deseja acompanhar sua saúde de forma simples e prática.
 
@@ -180,7 +182,7 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Quer ter autonomia sobre suas informações.
 
-### O que ele vê?
+O que ele vê?
 
 * Falta de comunicação entre clínicas e hospitais.
 
@@ -188,13 +190,13 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Poucos sistemas realmente fáceis de usar.
 
-### O que ele ouve?
+O que ele ouve?
 
 * Comentários de outros pacientes sobre confusão com agendamentos.
 
 * Médicos pedindo informações que ele já forneceu anteriormente.
 
-### O que ele fala e faz?
+O que ele fala e faz?
 
 * Reclama da dificuldade em lembrar horários e datas.
 
@@ -202,13 +204,13 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Evita usar sistemas complicados ou com linguagens técnicas.
 
-### Dores (frustrações):
+Dores (frustrações):
 
 * Falta de centralização dos dados de saúde.
 
 * Interfaces confusas e linguagem técnica difícil.
 
-### Necessidades:
+Necessidades:
 
 * Acesso protegido por senha apenas aos próprios dados.
 
@@ -218,10 +220,11 @@ Orientações dos gestores sobre a importância da digitalização.
 
 ### 4.2.3 Mapa da Empatia – Persona 3: Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
 
-### Quem é ele?
+Quem é ele?
+
 * 29 anos, analista de sistemas e desenvolvedor full stack. É responsável pela manutenção, segurança e evolução do sistema de prontuário eletrônico.
 
-### O que ele pensa e sente?
+O que ele pensa e sente?
 
 * Busca criar um sistema confiável, seguro e de fácil manutenção.
 
@@ -229,7 +232,7 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Gosta de resolver problemas e otimizar processos.
 
-### O que ele vê?
+O que ele vê?
 
 * Dificuldade em padronizar dados de diferentes sistemas.
 
@@ -237,13 +240,13 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Falta de documentação em muitos sistemas públicos.
 
-### O que ele ouve?
+O que ele ouve?
 
 * Reclamações de médicos sobre lentidão e falhas.
 
 * Demandas de gestores por mais relatórios e segurança.
 
-### O que ele fala e faz?
+O que ele fala e faz?
 
 * Monitora logs de acesso e desempenho.
 
@@ -251,13 +254,13 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Implementa melhorias baseadas no feedback dos usuários.
 
-### Dores (frustrações):
+Dores (frustrações):
 
 * Falta de integração entre sistemas legados e novas tecnologias.
 
 * Falta de padronização de dados e APIs.
 
-### Necessidades:
+Necessidades:
 
 * Painel administrativo completo para controle de permissões e cadastros.
 
@@ -267,10 +270,11 @@ Orientações dos gestores sobre a importância da digitalização.
 
 ### 4.2.4 Mapa da Empatia – Persona 4: Carla Mendes Rocha (Gestora de Unidade de Saúde)
 
-### Quem é ela?
+Quem é ela?
+
 * 50 anos, coordenadora administrativa de clínica municipal, com nível médio de familiaridade com tecnologia. É responsável por acompanhar a produtividade da equipe e a eficiência dos atendimentos.
 
-### O que ela pensa e sente?
+O que ela pensa e sente?
 
 * Quer maior controle e clareza sobre o fluxo de pacientes.
 
@@ -278,7 +282,7 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Busca ferramentas que otimizem o trabalho da equipe.
 
-### O que ela vê?
+O que ela vê?
 
 * Falta de integração de informações entre setores.
 
@@ -286,25 +290,25 @@ Orientações dos gestores sobre a importância da digitalização.
 
 * Processos administrativos lentos e manuais.
 
-### O que ela ouve?
+O que ela ouve?
 
 * Pressão de órgãos públicos por eficiência e transparência.
 
 * Solicitações de pacientes por melhorias no atendimento.
 
-# O que ela fala e faz?
+O que ela fala e faz?
 
 * Cobra relatórios e indicadores de desempenho da equipe.
 
 * Incentiva o uso do sistema, mas reclama da falta de suporte técnico.
 
-### Dores (frustrações):
+Dores (frustrações):
 
 * Dificuldade em gerar relatórios consolidados.
 
 * Falta de métricas claras para tomada de decisão.
 
-### Necessidades:
+Necessidades:
 
 * Painel de controle com dashboards e relatórios de produtividade.
 
