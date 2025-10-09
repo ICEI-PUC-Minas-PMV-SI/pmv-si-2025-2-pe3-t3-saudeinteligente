@@ -3,6 +3,7 @@
 ## 4.1 Personas
 Nesta seção, são apresentadas as personas que representam os principais perfis de usuários do Sistema de Prontuário Eletrônico. Cada persona foi criada com base em observações sobre o uso de sistemas digitais na área da saúde e nas necessidades destacadas em estudos recentes sobre prontuários eletrônicos. 
 O objetivo é compreender o comportamento, as expectativas e as dificuldades de cada tipo de usuário, a fim de orientar o desenvolvimento de um sistema mais eficiente, seguro e acessível.
+
 ### 4.1.1 Persona 1 – Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
 * Idade: 38 anos
@@ -87,7 +88,7 @@ Necessidades no sistema:
 
 * Ferramentas de manutenção e atualização automatizadas.
 
-4.1.4 Persona 4 – Carla Mendes Rocha (Gestora de Unidade de Saúde)
+### 4.1.4 Persona 4 – Carla Mendes Rocha (Gestora de Unidade de Saúde)
 
 * Idade: 50 anos
 
@@ -118,6 +119,7 @@ O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e 
 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
 ### 4.2.1 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
+
 Quem é ela?
 
 * 38 anos, médica clínica geral em uma unidade pública de saúde. Possui familiaridade média com tecnologia e realiza dezenas de atendimentos por dia.
