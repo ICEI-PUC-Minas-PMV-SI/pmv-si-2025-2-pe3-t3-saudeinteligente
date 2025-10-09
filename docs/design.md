@@ -318,7 +318,86 @@ Necessidades:
 * Suporte técnico rápido e eficaz.
 
 ## 4.3 Protótipos das Interfaces
-Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidades incorporadas a ele. Assim, um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidades. No desenvolvimento dos protótipos, devem ser considerados os princípios gestálticos, as recomendações ergonômicas e as regras de design (como as 8 regras de ouro). É importante descrever no texto do relatório como os princípios gestálticos e as regras de ouro foram seguidas no projeto das interfaces. Nesta etapa deve-se dar uma ênfase na implementação do software de modo que possam ser realizados os testes com usuários na etapa seguinte.
+Essa etapa é essencial para garantir que o Sistema de Prontuário Eletrônico seja realmente útil, seguro e adequado às rotinas das unidades de saúde, contribuindo para a melhoria contínua da qualidade do atendimento.
+
+### 4.3.1 Protótipos de Alta Fidelidade do Sistema de Prontuário Eletrônico
+
+Nesta seção são apresentados os protótipos de alta fidelidade desenvolvidos para o Sistema de Prontuário Eletrônico, que tem como finalidade aprimorar o registro, o acesso e o acompanhamento de informações médicas de pacientes em unidades de saúde públicas e privadas.
+
+Os protótipos foram criados utilizando ferramentas de design digital (como Figma ou Adobe XD), buscando representar com máxima fidelidade a interface final do sistema, tanto na versão desktop (para profissionais e gestores) quanto na versão mobile (para pacientes). Esses protótipos incluem elementos gráficos, ícones, menus interativos, cores e tipografia que simulam a experiência real de uso.
+
+### 4.3.2 Aplicação dos Princípios Gestálticos no Design
+
+Durante o processo de design das telas, foram aplicados os princípios gestálticos para garantir clareza visual, organização lógica e facilidade de compreensão das informações médicas apresentadas:
+
+* Proximidade: Elementos relacionados, como dados do paciente, histórico de consultas e prescrições, foram agrupados visualmente em blocos próximos, facilitando a leitura e a associação das informações.
+
+* Similaridade: Ícones, cores e botões seguem padrões visuais semelhantes, permitindo que o usuário identifique rapidamente funções de mesmo tipo (ex.: botões de ação em azul, botões de alerta em vermelho).
+
+* Continuidade: O fluxo de leitura foi mantido da esquerda para a direita e de cima para baixo, acompanhando o padrão cognitivo ocidental e tornando a navegação mais natural.
+
+* Figura e Fundo: As informações principais se destacam do plano de fundo por contraste adequado, garantindo boa legibilidade em ambientes de iluminação variada.
+
+* Simplicidade: As telas foram projetadas com o mínimo de distrações visuais, priorizando ícones simples e comandos diretos.
+
+### 4.3.3 Aplicação das Regras de Ouro de Design de Interface
+
+As 8 Regras de Ouro de Shneiderman foram seguidas para tornar o sistema intuitivo, previsível e eficiente:
+
+* Consistência: Todos os módulos (cadastro, agendamento, consultas, relatórios) seguem o mesmo padrão de layout e comandos.
+
+Atalhos para usuários experientes: Profissionais podem acessar funções frequentes com atalhos e menus rápidos.
+
+* Feedback informativo: Cada ação do usuário (salvar, excluir, atualizar) gera mensagens visuais claras sobre o resultado da operação.
+
+Fechamento de ações: Após o envio de dados, o sistema apresenta telas de confirmação, evitando dúvidas sobre a conclusão das tarefas.
+
+* Prevenção de erros: Campos obrigatórios e validações automáticas reduzem erros de digitação ou envio de informações incompletas.
+
+* Reversibilidade: É possível desfazer ou editar registros antes da finalização.
+
+* Controle do usuário: O sistema permite que o usuário navegue livremente sem bloqueios inesperados.
+
+* Redução da carga de memória: Informações importantes, como dados do paciente, são exibidas continuamente, evitando que o usuário precise memorizá-las.
+
+### 4.3.4 Recomendações Ergonômicas Consideradas
+
+* Tipografia legível: Fonte sem serifa (como Roboto ou Open Sans) para maior conforto visual.
+
+* Contraste adequado: Segue as normas de acessibilidade WCAG, garantindo leitura mesmo para usuários com baixa visão.
+
+* Tamanho e espaçamento de botões: Botões grandes, com área mínima de toque de 48x48 px para interação em telas sensíveis ao toque.
+
+* Fluxo de navegação otimizado: O número de cliques entre a tela inicial e as principais funções foi reduzido ao mínimo possível.
+
+* Uso de cores funcionais: Azul para ações principais, verde para confirmações e vermelho para alertas ou erros.
+
+### 4.3.5 Telas Principais Representadas no Protótipo
+
+* As telas de alta fidelidade desenvolvidas incluem:
+
+* Tela de Login e Autenticação: acesso seguro com autenticação de dois fatores.
+
+Painel do Médico: visão geral dos pacientes agendados, histórico de atendimentos e prescrições.
+
+* Prontuário do Paciente: visualização completa do histórico clínico, exames e evoluções médicas.
+
+* Tela do Paciente (Mobile): consulta de exames, notificações automáticas e agendamento de consultas.
+
+* Painel do Gestor: relatórios consolidados, indicadores de produtividade e controle de permissões.
+
+Cada tela foi projetada com foco em usabilidade, clareza e segurança, visando atender aos diferentes perfis de usuários identificados nas personas do projeto (médicos, pacientes, desenvolvedores e gestores).
+
+### 4.3.6 Enfoque na Implementação e Testes com Usuários
+
+Com os protótipos de alta fidelidade concluídos, o sistema encontra-se pronto para testes de usabilidade e validação com usuários reais, permitindo:
+
+* Avaliar a facilidade de navegação;
+
+* Coletar feedback sobre clareza visual e tempo de execução das tarefas;
+
+* Identificar pontos de melhoria antes da implementação final.
+
 
 ## 4.4 Testes com Protótipos
 Nesta seção você deve apresentar os testes realizados com usuários utilizando os protótipos de alta fidelidade desenvolvidos na seção anterior. O objetivo é avaliar a usabilidade, a clareza das informações e a adequação do design às necessidades das personas definidas no projeto.
