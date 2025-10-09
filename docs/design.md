@@ -116,7 +116,6 @@ Necessidades no sistema:
 
 ## 4.2 Mapa de Empatia
 O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e expectativas de cada perfil de usuário do Sistema de Prontuário Eletrônico Online. Essa análise é essencial para orientar o desenvolvimento do software, garantindo uma experiência mais eficiente, segura e centrada no usuário — desde o paciente até o gestor do sistema.
-Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
 ### 4.2.1 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
