@@ -1,10 +1,10 @@
 # 4. PROJETO DO DESIGN DE INTERAÇÃO
 
-## 4.1 Personas
+## 4.1. Personas
 Nesta seção, são apresentadas as personas que representam os principais perfis de usuários do Sistema de Prontuário Eletrônico. Cada persona foi criada com base em observações sobre o uso de sistemas digitais na área da saúde e nas necessidades destacadas em estudos recentes sobre prontuários eletrônicos. 
 O objetivo é compreender o comportamento, as expectativas e as dificuldades de cada tipo de usuário, a fim de orientar o desenvolvimento de um sistema mais eficiente, seguro e acessível.
 
-### 4.1.1 Persona 1 – Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
+### 4.1.1. Persona 1 – Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
 * Idade: 38 anos
 
@@ -32,7 +32,7 @@ Necessidades no sistema:
 
 * Acesso restrito, mas completo, aos prontuários dos pacientes agendados.
 
-### 4.1.2 Persona 2 – João Henrique da Silva (Paciente Usuário do Sistema)
+### 4.1.2. Persona 2 – João Henrique da Silva (Paciente Usuário do Sistema)
 
 * Idade: 45 anos
 
@@ -60,7 +60,7 @@ Necessidades no sistema:
 
 * Notificações automáticas sobre consultas e exames.
 
-### 4.1.3 Persona 3 – Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
+### 4.1.3. Persona 3 – Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
 
 * Idade: 29 anos
 
@@ -88,7 +88,7 @@ Necessidades no sistema:
 
 * Ferramentas de manutenção e atualização automatizadas.
 
-### 4.1.4 Persona 4 – Carla Mendes Rocha (Gestora de Unidade de Saúde)
+### 4.1.4. Persona 4 – Carla Mendes Rocha (Gestora de Unidade de Saúde)
 
 * Idade: 50 anos
 
@@ -114,11 +114,11 @@ Necessidades no sistema:
 
 * Suporte técnico ágil e confiável.
 
-## 4.2 Mapa de Empatia
+## 4.2. Mapa de Empatia
 O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e expectativas de cada perfil de usuário do Sistema de Prontuário Eletrônico. 
 Essa análise é essencial para orientar o desenvolvimento do software, garantindo uma experiência mais eficiente, segura e centrada no usuário, desde o paciente até o gestor do sistema.
 
-### 4.2.1 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
+### 4.2.1. Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
 Quem é ela?
 
@@ -170,7 +170,7 @@ Necessidades:
 
 * Ferramentas que integrem dados entre diferentes unidades.
 
-### 4.2.2 Mapa da Empatia – Persona 2: João Henrique da Silva (Paciente Usuário do Sistema)
+### 4.2.2. Mapa da Empatia – Persona 2: João Henrique da Silva (Paciente Usuário do Sistema)
 
 Quem é ele?
 
@@ -220,7 +220,7 @@ Necessidades:
 
 * Notificações automáticas sobre consultas e resultados.
 
-### 4.2.3 Mapa da Empatia – Persona 3: Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
+### 4.2.3. Mapa da Empatia – Persona 3: Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
 
 Quem é ele?
 
@@ -270,7 +270,7 @@ Necessidades:
 
 * Ferramentas automatizadas para manutenção e backup.
 
-### 4.2.4 Mapa da Empatia – Persona 4: Carla Mendes Rocha (Gestora de Unidade de Saúde)
+### 4.2.4. Mapa da Empatia – Persona 4: Carla Mendes Rocha (Gestora de Unidade de Saúde)
 
 Quem é ela?
 
@@ -318,17 +318,17 @@ Necessidades:
 
 * Suporte técnico rápido e eficaz.
 
-## 4.3 Protótipos das Interfaces
+## 4.3. Protótipos das Interfaces
 
 Essa etapa é essencial para garantir que o Sistema de Prontuário Eletrônico seja realmente útil, seguro e adequado às rotinas das unidades de saúde, contribuindo para a melhoria contínua da qualidade do atendimento.
 
-### 4.3.1 Protótipos de Alta Fidelidade do Sistema de Prontuário Eletrônico
+### 4.3.1. Protótipos de Alta Fidelidade do Sistema de Prontuário Eletrônico
 
 Nesta seção são apresentados os protótipos de alta fidelidade desenvolvidos para o Sistema de Prontuário Eletrônico, que tem como finalidade aprimorar o registro, o acesso e o acompanhamento de informações médicas de pacientes em unidades de saúde públicas e privadas.
 
 Os protótipos foram criados utilizando ferramentas de design digital, buscando representar com máxima fidelidade a interface final do sistema, tanto na versão desktop (para profissionais e gestores) quanto na versão mobile (para pacientes). Esses protótipos incluem elementos gráficos, ícones, menus interativos, cores e tipografia que simulam a experiência real de uso.
 
-### 4.3.2 Aplicação dos Princípios Gestálticos no Design
+### 4.3.2. Aplicação dos Princípios Gestálticos no Design
 
 Durante o processo de design das telas, foram aplicados os princípios gestálticos para garantir clareza visual, organização lógica e facilidade de compreensão das informações médicas apresentadas:
 
@@ -343,7 +343,7 @@ Durante o processo de design das telas, foram aplicados os princípios gestálti
 
 * Simplicidade: As telas foram projetadas com o mínimo de distrações visuais, priorizando ícones simples e comandos diretos.
 
-### 4.3.3 Aplicação das Regras de Ouro de Design de Interface
+### 4.3.3. Aplicação das Regras de Ouro de Design de Interface
 
 As 8 Regras de Ouro de Shneiderman foram seguidas para tornar o sistema intuitivo, previsível e eficiente:
 
@@ -363,7 +363,7 @@ As 8 Regras de Ouro de Shneiderman foram seguidas para tornar o sistema intuitiv
 
 * 8 - Redução da carga de memória: Informações importantes, como dados do paciente, são exibidas continuamente, evitando que o usuário precise memorizá-las.
 
-### 4.3.4 Recomendações Ergonômicas Consideradas
+### 4.3.4. Recomendações Ergonômicas Consideradas
 
 * Tipografia legível: Fonte sem serifa (como Roboto ou Open Sans) para maior conforto visual.
 
@@ -375,7 +375,7 @@ As 8 Regras de Ouro de Shneiderman foram seguidas para tornar o sistema intuitiv
 
 * Uso de cores funcionais: Azul para ações principais, verde para confirmações e vermelho para alertas ou erros.
 
-### 4.3.5 Telas Principais Representadas no Protótipo
+### 4.3.5. Telas Principais Representadas no Protótipo
 
 * As telas de alta fidelidade desenvolvidas incluem:
 
@@ -391,7 +391,7 @@ As 8 Regras de Ouro de Shneiderman foram seguidas para tornar o sistema intuitiv
 
 Cada tela foi projetada com foco em usabilidade, clareza e segurança, visando atender aos diferentes perfis de usuários identificados nas personas do projeto (médicos, pacientes, desenvolvedores e gestores).
 
-### 4.3.6 Enfoque na Implementação e Testes com Usuários
+### 4.3.6. Enfoque na Implementação e Testes com Usuários
 
 Com os protótipos de alta fidelidade concluídos, o sistema encontra-se pronto para testes de usabilidade e validação com usuários reais, permitindo:
 
@@ -401,7 +401,7 @@ Com os protótipos de alta fidelidade concluídos, o sistema encontra-se pronto 
 
 * Identificar pontos de melhoria antes da implementação final.
 
-## 4.4 Testes com Protótipos
+## 4.4. Testes com Protótipos
 
 ### Testes com Usuários
 
@@ -409,7 +409,7 @@ Nesta etapa foram realizados testes de usabilidade utilizando os protótipos de 
 
 Os testes foram conduzidos em ambiente controlado, utilizando os protótipos interativos desenvolvidos na ferramenta Figma, sendo cada participante orientado a executar tarefas específicas previamente definidas. O tempo médio de realização foi de 20 minutos por sessão, com observações diretas e anotações sobre dúvidas, erros, comentários e percepções de usabilidade.
 
-### 4.4.1 Participantes e Tarefas Testadas
+### 4.4.1. Participantes e Tarefas Testadas
 
 1 - Dra. Ana Beatriz Costa (médica usuária):
 
@@ -451,7 +451,7 @@ Os testes foram conduzidos em ambiente controlado, utilizando os protótipos int
 
 * Feedback: “O sistema está bem estruturado e atende aos requisitos de segurança e rastreabilidade exigidos pela LGPD.”
 
-### 4.4.2 Resultados Consolidados e Análise Geral
+### 4.4.2. Resultados Consolidados e Análise Geral
 
 Os resultados dos testes indicaram que o protótipo apresenta boa aceitação e facilidade de uso por parte dos usuários. De modo geral, as tarefas foram concluídas com sucesso e sem necessidade de auxílio externo, o que reforça a intuitividade da interface. Os principais pontos positivos identificados foram:
 
@@ -469,7 +469,7 @@ Entretanto, alguns aspectos de melhoria foram levantados:
 
 * Inserir tutoriais curtos de navegação para novos usuários (especialmente pacientes com menor familiaridade tecnológica).
 
-### 4.4.3 Ações Previstas para o Projeto Final
+### 4.4.3. Ações Previstas para o Projeto Final
 
 Com base nas observações e feedbacks coletados, as seguintes ações serão implementadas na próxima versão do sistema:
 
@@ -483,7 +483,7 @@ Com base nas observações e feedbacks coletados, as seguintes ações serão im
 
 5 - Inclusão de feedbacks visuais mais claros para ações concluídas (salvar, enviar, excluir).
 
-### 4.4.4 Análise Geral
+### 4.4.4. Análise Geral
 
 Os resultados consolidados mostraram que 100% dos usuários conseguiram concluir suas tarefas sem ajuda externa, e 75% delas foram realizadas em menos de 5 minutos, o que indica alta usabilidade e intuitividade da interface.
 Os principais pontos fortes destacam-se na organização visual, rapidez de navegação e adequação das funcionalidades aos diferentes perfis de acesso.
