@@ -115,7 +115,8 @@ Necessidades no sistema:
 * Suporte técnico ágil e confiável.
 
 ## 4.2 Mapa de Empatia
-O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e expectativas de cada perfil de usuário do Sistema de Prontuário Eletrônico Online. Essa análise é essencial para orientar o desenvolvimento do software, garantindo uma experiência mais eficiente, segura e centrada no usuário — desde o paciente até o gestor do sistema.
+O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e expectativas de cada perfil de usuário do Sistema de Prontuário Eletrônico. 
+Essa análise é essencial para orientar o desenvolvimento do software, garantindo uma experiência mais eficiente, segura e centrada no usuário, desde o paciente até o gestor do sistema.
 
 ### 4.2.1 Mapa da Empatia – Persona 1: Dra. Ana Beatriz Costa (Médica Usuária do Sistema)
 
@@ -318,13 +319,14 @@ Necessidades:
 * Suporte técnico rápido e eficaz.
 
 ## 4.3 Protótipos das Interfaces
+
 Essa etapa é essencial para garantir que o Sistema de Prontuário Eletrônico seja realmente útil, seguro e adequado às rotinas das unidades de saúde, contribuindo para a melhoria contínua da qualidade do atendimento.
 
 ### 4.3.1 Protótipos de Alta Fidelidade do Sistema de Prontuário Eletrônico
 
 Nesta seção são apresentados os protótipos de alta fidelidade desenvolvidos para o Sistema de Prontuário Eletrônico, que tem como finalidade aprimorar o registro, o acesso e o acompanhamento de informações médicas de pacientes em unidades de saúde públicas e privadas.
 
-Os protótipos foram criados utilizando ferramentas de design digital (como Figma ou Adobe XD), buscando representar com máxima fidelidade a interface final do sistema, tanto na versão desktop (para profissionais e gestores) quanto na versão mobile (para pacientes). Esses protótipos incluem elementos gráficos, ícones, menus interativos, cores e tipografia que simulam a experiência real de uso.
+Os protótipos foram criados utilizando ferramentas de design digital, buscando representar com máxima fidelidade a interface final do sistema, tanto na versão desktop (para profissionais e gestores) quanto na versão mobile (para pacientes). Esses protótipos incluem elementos gráficos, ícones, menus interativos, cores e tipografia que simulam a experiência real de uso.
 
 ### 4.3.2 Aplicação dos Princípios Gestálticos no Design
 
@@ -403,7 +405,7 @@ Com os protótipos de alta fidelidade concluídos, o sistema encontra-se pronto 
 
 ### Testes com Usuários
 
-Nesta etapa foram realizados testes de usabilidade utilizando os protótipos de alta fidelidade do Sistema de Prontuário Eletrônico Online, com o objetivo de avaliar a clareza das informações, a facilidade de navegação e a adequação do design às necessidades identificadas nas personas definidas no projeto. Cada integrante do grupo aplicou um teste individual com um participante que representa o perfil de uma das personas descritas anteriormente — médico, paciente, gestor e desenvolvedor.
+Nesta etapa foram realizados testes de usabilidade utilizando os protótipos de alta fidelidade do Sistema de Prontuário Eletrônico, com o objetivo de avaliar a clareza das informações, a facilidade de navegação e a adequação do design às necessidades identificadas nas personas definidas no projeto. Cada integrante do grupo aplicou um teste individual com um participante que representa o perfil de uma das personas descritas anteriormente: médico, paciente, gestor e desenvolvedor.
 
 Os testes foram conduzidos em ambiente controlado, utilizando os protótipos interativos desenvolvidos na ferramenta Figma, sendo cada participante orientado a executar tarefas específicas previamente definidas. O tempo médio de realização foi de 20 minutos por sessão, com observações diretas e anotações sobre dúvidas, erros, comentários e percepções de usabilidade.
 
@@ -491,4 +493,4 @@ As sugestões levantadas:
 
 2 — serão incorporadas à próxima versão do sistema, visando aprimorar a experiência do usuário e fortalecer a eficiência e segurança no uso do Sistema de Prontuário Eletrônico.
 
-Essas melhorias visam aumentar a eficiência, acessibilidade e satisfação do usuário, garantindo que o Sistema de Prontuário Eletrônico Online seja uma ferramenta moderna, segura e verdadeiramente centrada nas necessidades dos profissionais e pacientes, contribuindo para o fortalecimento da qualidade do atendimento em saúde no Brasil.
+Essas melhorias visam aumentar a eficiência, acessibilidade e satisfação do usuário, garantindo que o Sistema de Prontuário Eletrônico seja uma ferramenta moderna, segura e verdadeiramente centrada nas necessidades dos profissionais e pacientes, contribuindo para o fortalecimento da qualidade do atendimento em saúde no Brasil.
