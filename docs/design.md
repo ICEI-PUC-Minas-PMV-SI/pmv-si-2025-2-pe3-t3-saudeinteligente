@@ -486,7 +486,9 @@ Com base nas observações e feedbacks coletados, as seguintes ações serão im
 Os resultados consolidados mostraram que 100% dos usuários conseguiram concluir suas tarefas sem ajuda externa, e 75% delas foram realizadas em menos de 5 minutos, o que indica alta usabilidade e intuitividade da interface.
 Os principais pontos fortes destacam-se na organização visual, rapidez de navegação e adequação das funcionalidades aos diferentes perfis de acesso.
 As sugestões levantadas:
+
 1 — como o aumento do contraste visual, criação de atalhos e inclusão de tutoriais 
+
 2 — serão incorporadas à próxima versão do sistema, visando aprimorar a experiência do usuário e fortalecer a eficiência e segurança no uso do Sistema de Prontuário Eletrônico.
 
 Essas melhorias visam aumentar a eficiência, acessibilidade e satisfação do usuário, garantindo que o Sistema de Prontuário Eletrônico Online seja uma ferramenta moderna, segura e verdadeiramente centrada nas necessidades dos profissionais e pacientes, contribuindo para o fortalecimento da qualidade do atendimento em saúde no Brasil.
