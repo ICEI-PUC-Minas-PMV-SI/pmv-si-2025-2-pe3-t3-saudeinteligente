@@ -332,7 +332,8 @@ Durante o processo de design das telas, foram aplicados os princípios gestálti
 
 * Proximidade: Elementos relacionados, como dados do paciente, histórico de consultas e prescrições, foram agrupados visualmente em blocos próximos, facilitando a leitura e a associação das informações.
 
-* Similaridade: Ícones, cores e botões seguem padrões visuais semelhantes, permitindo que o usuário identifique rapidamente funções de mesmo tipo (ex.: botões de ação em azul, botões de alerta em vermelho).
+* Similaridade: Ícones, cores e botões seguem padrões visuais semelhantes, permitindo que o usuário identifique rapidamente funções de mesmo tipo
+  (ex.: botões de ação em azul, botões de alerta em vermelho).
 
 * Continuidade: O fluxo de leitura foi mantido da esquerda para a direita e de cima para baixo, acompanhando o padrão cognitivo ocidental e tornando a navegação mais natural.
 
@@ -344,21 +345,21 @@ Durante o processo de design das telas, foram aplicados os princípios gestálti
 
 As 8 Regras de Ouro de Shneiderman foram seguidas para tornar o sistema intuitivo, previsível e eficiente:
 
-* Consistência: Todos os módulos (cadastro, agendamento, consultas, relatórios) seguem o mesmo padrão de layout e comandos.
+* 1 - Consistência: Todos os módulos (cadastro, agendamento, consultas, relatórios) seguem o mesmo padrão de layout e comandos.
 
-Atalhos para usuários experientes: Profissionais podem acessar funções frequentes com atalhos e menus rápidos.
+* 2 - Atalhos para usuários experientes: Profissionais podem acessar funções frequentes com atalhos e menus rápidos.
 
-* Feedback informativo: Cada ação do usuário (salvar, excluir, atualizar) gera mensagens visuais claras sobre o resultado da operação.
+* 3 - Feedback informativo: Cada ação do usuário (salvar, excluir, atualizar) gera mensagens visuais claras sobre o resultado da operação.
 
-Fechamento de ações: Após o envio de dados, o sistema apresenta telas de confirmação, evitando dúvidas sobre a conclusão das tarefas.
+* 4 - Fechamento de ações: Após o envio de dados, o sistema apresenta telas de confirmação, evitando dúvidas sobre a conclusão das tarefas.
 
-* Prevenção de erros: Campos obrigatórios e validações automáticas reduzem erros de digitação ou envio de informações incompletas.
+* 5 - Prevenção de erros: Campos obrigatórios e validações automáticas reduzem erros de digitação ou envio de informações incompletas.
 
-* Reversibilidade: É possível desfazer ou editar registros antes da finalização.
+* 6 - Reversibilidade: É possível desfazer ou editar registros antes da finalização.
 
-* Controle do usuário: O sistema permite que o usuário navegue livremente sem bloqueios inesperados.
+* 7 - Controle do usuário: O sistema permite que o usuário navegue livremente sem bloqueios inesperados.
 
-* Redução da carga de memória: Informações importantes, como dados do paciente, são exibidas continuamente, evitando que o usuário precise memorizá-las.
+* 8 - Redução da carga de memória: Informações importantes, como dados do paciente, são exibidas continuamente, evitando que o usuário precise memorizá-las.
 
 ### 4.3.4 Recomendações Ergonômicas Consideradas
 
@@ -378,7 +379,7 @@ Fechamento de ações: Após o envio de dados, o sistema apresenta telas de conf
 
 * Tela de Login e Autenticação: acesso seguro com autenticação de dois fatores.
 
-Painel do Médico: visão geral dos pacientes agendados, histórico de atendimentos e prescrições.
+* Painel do Médico: visão geral dos pacientes agendados, histórico de atendimentos e prescrições.
 
 * Prontuário do Paciente: visualização completa do histórico clínico, exames e evoluções médicas.
 
@@ -398,12 +399,94 @@ Com os protótipos de alta fidelidade concluídos, o sistema encontra-se pronto 
 
 * Identificar pontos de melhoria antes da implementação final.
 
-
 ## 4.4 Testes com Protótipos
-Nesta seção você deve apresentar os testes realizados com usuários utilizando os protótipos de alta fidelidade desenvolvidos na seção anterior. O objetivo é avaliar a usabilidade, a clareza das informações e a adequação do design às necessidades das personas definidas no projeto.
 
-Cada integrante do grupo deverá aplicar o teste com um usuário distinto, preferencialmente alinhado ao perfil das personas criadas. Devem ser definidas previamente as tarefas que o usuário deverá executar no protótipo (por exemplo: realizar um cadastro, buscar um produto, concluir uma compra).
+### Testes com Usuários
 
-Durante a aplicação do teste, registre observações sobre comportamentos, dúvidas, erros e comentários feitos pelo usuário, bem como o tempo necessário para a execução de cada tarefa. Ao final, colete o feedback do participante, destacando pontos positivos e aspectos a serem melhorados.
+Nesta etapa foram realizados testes de usabilidade utilizando os protótipos de alta fidelidade do Sistema de Prontuário Eletrônico Online, com o objetivo de avaliar a clareza das informações, a facilidade de navegação e a adequação do design às necessidades identificadas nas personas definidas no projeto. Cada integrante do grupo aplicou um teste individual com um participante que representa o perfil de uma das personas descritas anteriormente — médico, paciente, gestor e desenvolvedor.
 
-Os resultados obtidos por todos os integrantes devem ser consolidados, apresentando uma análise geral com os principais problemas encontrados, oportunidades de melhoria e as ações previstas para o projeto final. 
+Os testes foram conduzidos em ambiente controlado, utilizando os protótipos interativos desenvolvidos na ferramenta Figma, sendo cada participante orientado a executar tarefas específicas previamente definidas. O tempo médio de realização foi de 20 minutos por sessão, com observações diretas e anotações sobre dúvidas, erros, comentários e percepções de usabilidade.
+
+### 4.4.1 Participantes e Tarefas Testadas
+
+1 - Dra. Ana Beatriz Costa (médica usuária):
+
+* Tarefas: Acessar o sistema com login; consultar histórico de um paciente; registrar nova consulta; emitir receita digital.
+
+* Observações: Executou as tarefas com facilidade; relatou boa organização visual e clareza dos ícones. Apontou como sugestão a inclusão de um botão de “atalho rápido” para acessar o prontuário do paciente diretamente da tela inicial.
+
+* Tempo médio por tarefa: 3 minutos.
+
+* Feedback: “O sistema é intuitivo e rápido, o que facilita o atendimento, especialmente em consultas com tempo reduzido.”
+
+2 - João Henrique da Silva (paciente):
+
+* Tarefas: Fazer login; consultar resultados de exames; visualizar próxima consulta; alterar informações de contato.
+
+* Observações: Demonstrou leve dificuldade inicial em encontrar a seção “Minhas Consultas”, mas após o primeiro uso compreendeu a lógica de navegação.
+
+* Tempo médio por tarefa: 4 minutos.
+
+* Feedback: “Gostei da simplicidade da interface, principalmente para ver os resultados de exames. As notificações automáticas são muito úteis.”
+
+3 - Carla Mendes Rocha (gestora de unidade):
+
+* Tarefas: Acessar o painel de relatórios; verificar o número de atendimentos por médico; cadastrar novo profissional; exportar relatório em PDF.
+
+* Observações: Navegação fluida e boa compreensão dos ícones. Sugeriu melhorar o contraste entre os botões de ação e os campos de visualização.
+
+* Tempo médio por tarefa: 5 minutos.
+
+* Feedback: “O painel é muito prático, mas uma paleta de cores mais contrastante ajudaria na leitura rápida dos relatórios.”
+
+4 - Marcos Vinícius Oliveira (administrador/desenvolvedor):
+
+* Tarefas: Gerenciar permissões de usuários; visualizar logs de acesso; simular integração com banco de dados.
+
+* Observações: Não apresentou dificuldades de uso. Destacou a clareza da hierarquia de menus e a organização do painel administrativo.
+
+* Tempo médio por tarefa: 3 minutos.
+
+* Feedback: “O sistema está bem estruturado e atende aos requisitos de segurança e rastreabilidade exigidos pela LGPD.”
+
+### 4.4.2 Resultados Consolidados e Análise Geral
+
+Os resultados dos testes indicaram que o protótipo apresenta boa aceitação e facilidade de uso por parte dos usuários. De modo geral, as tarefas foram concluídas com sucesso e sem necessidade de auxílio externo, o que reforça a intuitividade da interface. Os principais pontos positivos identificados foram:
+
+* Layout limpo e organizado, com boa hierarquia visual;
+
+* Clareza nas informações e ícones de fácil compreensão;
+
+* Funcionalidades adequadas aos diferentes perfis de usuários (médicos, pacientes, gestores e administradores).
+
+Entretanto, alguns aspectos de melhoria foram levantados:
+
+* Ajustar o contraste entre cores de botões e textos, visando maior acessibilidade visual;
+
+* Criar atalhos rápidos para as funções mais usadas pelos médicos;
+
+* Inserir tutoriais curtos de navegação para novos usuários (especialmente pacientes com menor familiaridade tecnológica).
+
+### 4.4.3 Ações Previstas para o Projeto Final
+
+Com base nas observações e feedbacks coletados, as seguintes ações serão implementadas na próxima versão do sistema:
+
+1 - Revisão da paleta de cores para atender critérios de contraste (WCAG 2.1).
+
+2 - Criação de atalhos e menus rápidos para funções frequentes.
+
+3 - Inserção de uma tela inicial com tutoriais e dicas rápidas.
+
+4 - Otimização da performance nas telas de consulta e relatórios.
+
+5 - Inclusão de feedbacks visuais mais claros para ações concluídas (salvar, enviar, excluir).
+
+### 4.4.4 Análise Geral
+
+Os resultados consolidados mostraram que 100% dos usuários conseguiram concluir suas tarefas sem ajuda externa, e 75% delas foram realizadas em menos de 5 minutos, o que indica alta usabilidade e intuitividade da interface.
+Os principais pontos fortes destacam-se na organização visual, rapidez de navegação e adequação das funcionalidades aos diferentes perfis de acesso.
+As sugestões levantadas:
+1 — como o aumento do contraste visual, criação de atalhos e inclusão de tutoriais 
+2 — serão incorporadas à próxima versão do sistema, visando aprimorar a experiência do usuário e fortalecer a eficiência e segurança no uso do Sistema de Prontuário Eletrônico.
+
+Essas melhorias visam aumentar a eficiência, acessibilidade e satisfação do usuário, garantindo que o Sistema de Prontuário Eletrônico Online seja uma ferramenta moderna, segura e verdadeiramente centrada nas necessidades dos profissionais e pacientes, contribuindo para o fortalecimento da qualidade do atendimento em saúde no Brasil.
