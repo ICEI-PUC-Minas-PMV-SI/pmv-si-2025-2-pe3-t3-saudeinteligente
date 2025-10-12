@@ -12,9 +12,21 @@ Sem um portal seguro e centralizado, médicos enfrentam limitações para obter 
 
 ## 1.2. Objetivos do trabalho
 
-Os principais objetivos de um prontuário eletrônico na área da saúde estão voltados para centralizar e organizar as informações médicas dos pacientes em um portal seguro e de fácil acesso. Esse recurso busca reunir dados completos, como histórico de doenças, alergias, consultas realizadas, consultas futuras e exames, permitindo maior agilidade na marcação de procedimentos e no acompanhamento clínico. Além disso, o sistema visa reduzir a fragmentação das informações, evitando retrabalho e falhas ocasionadas pela falta de dados atualizados.
+## Objetivos do Trabalho: Protótipo de Prontuário Eletrônico Otimizado
 
-Outro objetivo fundamental é fornecer ao médico, por meio de credenciais autorizadas, acesso rápido e confiável ao histórico do paciente, independentemente do plano de saúde utilizado. Isso possibilita uma triagem mais eficiente, diagnósticos mais precisos e interpretações rápidas sobre o estado clínico, favorecendo a continuidade do cuidado e a qualidade do atendimento. Dessa forma, o sistema não apenas moderniza os processos de saúde, mas também fortalece a segurança, a eficiência e a integração entre profissionais, pacientes e instituições de saúde.
+### Objetivo Geral
+
+O objetivo geral deste trabalho é **desenvolver um protótipo de software de Prontuário Eletrônico (PE) para a Atenção Primária à Saúde (APS)**, focado em **usabilidade, segurança e acessibilidade**. A finalidade é superar os desafios técnicos e operacionais de **adaptação profissional e infraestrutura limitada** no sistema de saúde brasileiro.
+
+### Objetivos Específicos
+
+Para alcançar o objetivo geral e garantir a eficácia do protótipo, o trabalho será guiado pelos seguintes objetivos específicos:
+
+* **Usabilidade e Adaptação:** **Mapear** os fluxos de trabalho e as necessidades informacionais da APS para projetar uma **interface do usuário (UI/UX) altamente intuitiva**. Isso visa reduzir a resistência à mudança, minimizar a curva de aprendizado dos profissionais de saúde e, consequentemente, otimizar o tempo de atendimento.
+
+* **Segurança e Acesso à Informação:** **Garantir** a segurança e a privacidade dos dados do paciente por meio do desenvolvimento de **controle de acesso robustos**, assegurando total conformidade com as diretrizes e a legislação de proteção de dados na área da saúde.
+
+* **Infraestrutura e Acessibilidade:** **Estruturar** a arquitetura do sistema para que seja **leve e resiliente**, permitindo a acessibilidade e a operação eficiente mesmo em ambientes com **infraestrutura de TI limitada**, como áreas rurais ou unidades de saúde com baixa conectividade à internet ou recursos de *hardware* modestos.
 
 ## 1.3. Justificativa
 
