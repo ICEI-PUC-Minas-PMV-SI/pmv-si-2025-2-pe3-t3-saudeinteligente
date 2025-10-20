@@ -5,55 +5,8 @@ Nesta seção, serão detalhados os requisitos funcionais e não funcionais do S
 
 ## 3.1 Objetivos deste documento
 
-### 3.1.1. Requisitos Funcionais
-
-Os requisitos funcionais descrevem as funções que o sistema deve executar. Entre eles, destacam-se:
-
-* Cadastro de Usuários: possibilitar o registro de pacientes, médicos e administradores, com níveis de permissão distintos.
-
-* Autenticação Segura: acesso ao sistema somente por login e senha, garantindo segurança das informações.
-
-* Acesso Restrito:
-
-Pacientes podem visualizar apenas seus próprios dados (consultas, exames, diagnósticos).
-
-Médicos têm acesso apenas aos prontuários dos pacientes previamente agendados.
-
-Administradores (desenvolvedores/gestores do sistema) gerenciam cadastros, permissões e manutenção.
-
-* Registro de Consultas e Exames: inserção, edição e atualização de informações sobre atendimentos médicos.
-
-* Histórico de Saúde: manter o histórico completo do paciente, incluindo alergias, doenças pré-existentes, exames e tratamentos realizados.
-
-* Agendamento de Consultas: permitir que pacientes solicitem consultas e médicos visualizem sua agenda.
-
-* Relatórios Médicos: geração de relatórios para auxiliar no diagnóstico e acompanhamento da saúde do paciente.
-
-### 3.1.2. Requisitos Não Funcionais
-
-Os requisitos não funcionais estabelecem características de qualidade e restrições do sistema:
-
-* Segurança: utilização de protocolos de criptografia para proteger dados sensíveis.
-
-* Usabilidade: interface amigável, de fácil navegação para diferentes perfis de usuários.
-
-* Disponibilidade: sistema acessível online 24/7, garantindo continuidade no atendimento.
-
-* Escalabilidade: capacidade de suportar crescimento no número de usuários e registros sem perda de desempenho.
-
-* Interoperabilidade: possibilidade de integração futura com outros sistemas de saúde e bases de dados governamentais.
-
-* Privacidade: cumprimento da LGPD (Lei Geral de Proteção de Dados) para proteger informações pessoais dos pacientes.
-
-### 3.1.3. Requisitos de Negócio
-
-* Melhorar a organização e a eficiência dos serviços de saúde por meio da digitalização de informações.
-
-* Reduzir falhas no atendimento decorrentes da ausência ou duplicidade de registros médicos.
-
-* Aumentar a confiança dos profissionais e pacientes em relação ao armazenamento e compartilhamento seguro dos dados.
-
-* Disponibilizar dados confiáveis para apoiar a tomada de decisão clínica e a formulação de políticas públicas de saúde.
+O DERS é a fonte de informação centralizada e oficial que detalha o produto a ser construído. Sua função primária é Comunicar os Requisitos de forma inequívoca.
+Ao documentar todos os requisitos, o DERS Guia o Desenvolvimento. Ele fornece à equipe técnica uma base sólida para todas as fases subsequentes, desde o design e a implementação (codificação) até os testes. Isso assegura que cada módulo construído e cada linha de código escrita estejam diretamente alinhados com as necessidades e expectativas originais do cliente.
 
 
 ## 3.2 Escopo do produto
@@ -131,7 +84,8 @@ A Figura 1 ilustra as interações primárias entre os atores e o Sistema de Pro
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
-<img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/b4c4c96d-32bc-4cbb-9521-33ff08ff2881" />
+<img width="1309" height="388" alt="image" src="https://github.com/user-attachments/assets/d9e24fda-5dfa-40d9-a12c-1053960d772b" />
+
 
 
 
@@ -157,7 +111,8 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
-<img width="397" height="318" alt="image" src="https://github.com/user-attachments/assets/2582cb5e-d19c-4319-b392-e39033cdf226" />
+<img width="1256" height="383" alt="image" src="https://github.com/user-attachments/assets/887bc79b-e677-40ca-8d8d-3864e38f345a" />
+
 
 
 
