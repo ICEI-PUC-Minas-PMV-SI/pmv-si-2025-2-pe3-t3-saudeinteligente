@@ -30,8 +30,6 @@ Necessidades no sistema:
 
 * Integração entre dados de diferentes especialidades e unidades.
 
-* Acesso restrito, mas completo, aos prontuários dos pacientes agendados.
-
 ### 4.1.2. Persona 2 – João Henrique da Silva (Paciente Usuário do Sistema)
 
 * Idade: 45 anos
@@ -54,31 +52,31 @@ Frustrações:
 
 Necessidades no sistema:
 
-* Acesso protegido por senha a seus próprios dados.
+* Controle sobre os dados que vão ser cadastrados.
 
 * Interface simples, com linguagem acessível.
 
 * Notificações automáticas sobre consultas e exames.
 
-### 4.1.3. Persona 3 – Marcos Vinícius Oliveira (Administrador / Desenvolvedor do Sistema)
+### 4.1.3. Persona 3 – Marcos Vinícius Oliveira (Paciente Usuário do Sistema)
 
 * Idade: 29 anos
 
-* Profissão: Analista de sistemas e desenvolvedor full stack
+* Profissão: Técnico de Suporte Júnior
 
-* Nível de familiaridade com tecnologia: Alto
+* Nível de familiaridade com tecnologia: Médio
 
 Objetivos:
 
-* Garantir o bom funcionamento do sistema, mantendo segurança e estabilidade.
+* Receber alertas claros de consultas.
 
-* Implementar novas funcionalidades de forma escalável e segura.
+* Controle centralidade de exames.
 
 Frustrações:
 
-* Falta de padronização de dados entre sistemas de saúde.
+* Lembretes automáticos com 24h de antecedência para consultas e prazos.
 
-* Dificuldade em integrar informações de diferentes bases e clínicas.
+* Um recurso que explica termos médicos ou siglas comuns.
 
 Necessidades no sistema:
 
@@ -112,7 +110,7 @@ Necessidades no sistema:
 
 * Controle de permissões e cadastros de profissionais e pacientes.
 
-* Suporte técnico ágil e confiável.
+* Cadastro de médicos simplificados.
 
 ## 4.2. Mapa de Empatia
 O Mapa da Empatia permitiu compreender de forma mais profunda as necessidades e expectativas de cada perfil de usuário do Sistema de Prontuário Eletrônico. 
