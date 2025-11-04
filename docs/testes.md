@@ -26,7 +26,7 @@ Cada integrante avalia o sistema inteiro, focando em aspectos como login, acesso
 6.Localização no Sistema
 7.Visibilidade do Status do Sistema
 
-*O sistema deve sempre informar o usuário sobre o que está acontecendo.
+**O sistema deve sempre informar o usuário sobre o que está acontecendo.
 
 Na tela de login, não há feedback imediato se a senha estiver incorreta (apenas uma mensagem genérica após tentativa).
 
