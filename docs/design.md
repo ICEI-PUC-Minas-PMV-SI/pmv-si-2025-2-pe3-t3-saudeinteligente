@@ -10,7 +10,7 @@ O objetivo é compreender o comportamento, as expectativas e as dificuldades de 
 
 * Profissão: Médica clínica geral em unidade pública de saúde
 
-* Nível de familiaridade com tecnologia: Médio
+* Nível de familiaridade com tecnologia: Pelo seu grau de escolaridade e conhecimento nao tem problemasnesse ponto
 
 Objetivos:
 
@@ -22,13 +22,13 @@ Frustrações:
 
 * Dificuldade de acesso a informações completas sobre o paciente em diferentes sistemas.
 
-* Tempo gasto com preenchimentos manuais e lentidão de sistemas antigos.
+* Tempo gasto com preenchimentos manuais e lentidão de sistemas antigos (download // upload ).
 
 Necessidades no sistema:
 
 * Interface intuitiva e rápida.
 
-* Integração entre dados de diferentes especialidades e unidades.
+* Integração entre dados de diferentes especialidades medicas e unidades de atendimento.
 
 ### 4.1.2. Persona 2 – João Henrique da Silva (Paciente Usuário do Sistema)
 
@@ -36,7 +36,7 @@ Necessidades no sistema:
 
 * Profissão: Motorista de aplicativo
 
-* Nível de familiaridade com tecnologia: Médio-baixo
+* Nível de familiaridade com tecnologia: Pouca interação no aspecto tecnologico
 
 Objetivos:
 
@@ -46,17 +46,17 @@ Objetivos:
 
 Frustrações:
 
-* Dificuldade em lembrar datas e informações de saúde.
+* Dificuldade em lembrar datas de agendamentos e informações relevantes a sua saúde.
 
-* Falta de comunicação entre clínicas e hospitais.
+* Falta de comunicação entre clínicas e hospitais que foram realizadas diferentes consultas.
 
 Necessidades no sistema:
 
 * Controle sobre os dados que vão ser cadastrados.
 
-* Interface simples, com linguagem acessível.
+* Interface simples, com linguagem facil e acessível.
 
-* Notificações automáticas sobre consultas e exames.
+* Alarmes e notificações automáticas datas e horarios sobre consultas e exames.
 
 ### 4.1.3. Persona 3 – Marcos Vinícius Oliveira (Paciente Usuário do Sistema)
 
@@ -64,7 +64,7 @@ Necessidades no sistema:
 
 * Profissão: Técnico de Suporte Júnior
 
-* Nível de familiaridade com tecnologia: Médio
+* Nível de familiaridade com tecnologia: bastante interaçao com aplicativos e acesso a internet.
 
 Objetivos:
 
