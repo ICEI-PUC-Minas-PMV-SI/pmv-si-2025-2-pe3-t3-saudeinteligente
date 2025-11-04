@@ -5,7 +5,252 @@ Nesta etapa devem ser realizados dois tipos de avaliação: por observação de 
 •	Na avaliação por observação de sessão de uso, deverão ser definidas tarefas em quantidade igual ao número de integrantes do grupo (ex.: grupo com 5 integrantes, 5 tarefas) e documentadas no relatório de testes com usuário (arquivo Relatório_de_Testes_com_Usuário.docx). Cada integrante do grupo deverá realizar o teste com um usuário distinto (ex.: grupo com 5 integrantes, 5 usuários deverão ser escolhidos, um por cada membro, para a realização dos testes).
 
 Ao final, os relatórios gerados por cada membro deverão ser disponibilizados aqui, juntamente com a planilha consolidada da avaliação heurística.
+____________________________________________________________________________________________________________________
+Vou dividir em duas partes principais: Avaliação Heurística e Avaliação por Observação de Sessão de Uso (Testes com Usuários). Incluirei exemplos de como preencher os arquivos mencionados (Avaliação_Heurística.xlsx e Relatório_de_Testes_com_Usuário.docx), com conteúdo fictício mas realista. No final, menciono como compilar e submeter.
 
+1. Avaliação Heurística (Inspeção por Especialistas)
+Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heurística.xlsx). Essa avaliação usa heurísticas de usabilidade (como as de Nielsen, por exemplo: visibilidade do status do sistema, correspondência entre sistema e mundo real, controle e liberdade do usuário, etc.) para identificar problemas no sistema sem usuários reais.
+
+Exemplo de Estrutura da Planilha (Avaliação_Heurística.xlsx):
+
+Colunas típicas: Heurística, Descrição da Heurística, Problema Identificado, Severidade (baixa, média, alta), Sugestão de Correção, Localização no Sistema (tela ou funcionalidade).
+Cada integrante avalia o sistema inteiro, focando em aspectos como login, acesso por perfil, visualização de dados, etc.
+Exemplo de Conteúdo (Preenchido por um Integrante, Digamos, Integrante 1):
+
+Heurística
+
+Descrição da Heurística
+
+Problema Identificado
+
+Severidade
+
+Sugestão de Correção
+
+Localização no Sistema
+
+Visibilidade do Status do Sistema
+
+O sistema deve sempre informar o usuário sobre o que está acontecendo.
+
+Na tela de login, não há feedback imediato se a senha estiver incorreta (apenas uma mensagem genérica após tentativa).
+
+Média
+
+Adicionar mensagem específica (ex.: "Senha incorreta") e indicador de carregamento durante autenticação.
+
+Tela de Login
+
+Correspondência entre Sistema e Mundo Real
+
+O sistema deve usar linguagem e conceitos familiares ao usuário.
+
+Para médicos, termos técnicos em relatórios são muito densos, sem glossário ou explicações simples.
+
+Alta
+
+Incluir tooltips ou glossário integrado para termos médicos.
+
+Relatórios de Diagnósticos
+
+Controle e Liberdade do Usuário
+
+Usuários devem ter controle fácil, com saídas de emergência.
+
+Pacientes não conseguem facilmente cancelar uma consulta agendada sem confirmação excessiva.
+
+Baixa
+
+Adicionar botão "Cancelar" com confirmação simples (um clique).
+
+Tela de Agendamento de Consultas
+
+Consistência e Padrões
+
+O sistema deve seguir convenções consistentes.
+
+Ícones para "Editar" variam entre telas (ex.: lápis vs. engrenagem), confundindo administradores.
+
+Média
+
+Padronizar ícones com base em bibliotecas como Material Design.
+
+Todas as Telas de Administração
+
+Prevenção de Erros
+
+Melhor prevenir erros do que corrigi-los.
+
+Médicos podem inserir datas inválidas em exames sem validação automática.
+
+Alta
+
+Implementar validação de datas (ex.: impedir datas futuras para exames passados).
+
+Formulário de Exames
+
+Reconhecimento em Vez de Recordação
+
+Minimizar carga de memória do usuário.
+
+Senhas de login não têm opção de "lembrar-me" ou recuperação fácil, forçando recordação constante.
+
+Média
+
+Adicionar checkbox "Lembrar-me" e fluxo de recuperação de senha por e-mail.
+
+Tela de Login
+
+Flexibilidade e Eficiência de Uso
+
+Aceleração para usuários experientes.
+
+Administradores precisam navegar por muitas telas para gerenciar usuários, sem atalhos.
+
+Baixa
+
+Adicionar barra de navegação rápida ou atalhos de teclado.
+
+Painel de Administração
+
+Design Estético e Minimalista
+
+Interfaces limpas, sem informações irrelevantes.
+
+Telas de pacientes mostram dados desnecessários (ex.: histórico completo sempre visível), sobrecarregando.
+
+Média
+
+Usar abas ou colapsáveis para organizar informações.
+
+Dashboard do Paciente
+
+Ajuda e Documentação
+
+Fornecer ajuda acessível.
+
+Não há FAQ ou tutoriais embutidos para novos usuários (ex.: médicos aprendendo a autorizar pacientes).
+
+Alta
+
+Integrar um centro de ajuda com guias passo a passo.
+
+Todas as Telas
+
+Recuperação de Erros
+
+Mensagens de erro claras e soluções.
+
+Erro de "Acesso Negado" para médicos não autorizados é vago, sem explicação.
+
+Média
+
+Detalhar: "Você não tem autorização para acessar dados deste paciente. Contate o administrador."
+
+Tela de Acesso a Dados
+
+Como Compilar em Arquivo Único:
+
+Cada integrante envia sua planilha preenchida.
+Um membro (ou o grupo) consolida em uma única planilha, adicionando uma coluna "Integrante" para identificar quem identificou cada problema. Por exemplo, combine as linhas de todos e calcule uma severidade média se houver conflitos. Salve como "Avaliação_Heurística_Consolidada.xlsx".
+2. Avaliação por Observação de Sessão de Uso (Testes com Usuários)
+Defina tarefas iguais ao número de integrantes (ex.: 3 tarefas para 3 membros). Cada integrante testa com um usuário distinto (ex.: 3 usuários). Documente no Relatório_de_Testes_com_Usuário.docx, incluindo: descrição das tarefas, perfil do usuário, observações, problemas encontrados, sugestões e métricas (ex.: tempo para completar tarefa, taxa de sucesso).
+
+Exemplo de Tarefas Definidas (para Grupo de 3):
+
+Tarefa 1 (para Paciente): Faça login no sistema e visualize seu histórico de consultas e exames.
+Tarefa 2 (para Médico): Faça login, autorize acesso a um paciente específico e registre um diagnóstico.
+Tarefa 3 (para Administrador): Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema.
+Exemplo de Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
+
+Relatório de Testes com Usuário
+Integrante Responsável: Integrante 1
+Usuário Testado: João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica)
+Data do Teste: 15/10/2023
+Ambiente: Computador desktop em laboratório, sem distrações.
+
+Descrição da Tarefa: Faça login no sistema e visualize seu histórico de consultas e exames.
+
+Passos Observados:
+
+Usuário inseriu login e senha corretos.
+Navegou para a aba "Histórico".
+Visualizou lista de consultas e clicou em um exame para detalhes.
+Problemas Identificados:
+
+Tempo para completar: 3 minutos (meta: 2 minutos).
+Usuário hesitou na navegação, dizendo: "Onde está o histórico? É confuso." (Problema de usabilidade: menus não intuitivos).
+Taxa de sucesso: 100% (concluiu, mas com frustração).
+Sugestões de Melhoria:
+
+Reorganizar menu principal com ícones maiores e labels claros.
+Adicionar tutorial inicial para pacientes.
+Outras Observações: Usuário elogiou a segurança (login rápido), mas sugeriu notificações por e-mail para novos exames.
+
+Métricas:
+
+Tempo Médio: 3 min.
+Erros: 0.
+Satisfação (escala 1-5): 4 (bom, mas pode melhorar).
+Relatório de Testes com Usuário
+Integrante Responsável: Integrante 2
+Usuário Testado: Dra. Maria Oliveira (Perfil: Médico, Idade: 38 anos, Experiência: Avançada)
+Data do Teste: 16/10/2023
+Ambiente: Tablet em ambiente clínico simulado.
+
+Descrição da Tarefa: Faça login, autorize acesso a um paciente específico e registre um diagnóstico.
+
+Passos Observados:
+
+Login bem-sucedido.
+Buscou paciente por nome e autorizou acesso.
+Registrou diagnóstico em formulário.
+Problemas Identificados:
+
+Tempo: 4 minutos (meta: 3 minutos).
+Usuária comentou: "A autorização é lenta; precisa de confirmação rápida." (Problema: fluxo de autorização complexo).
+Taxa de sucesso: 100%.
+Sugestões: Simplificar autorização com um botão "Autorizar e Acessar".
+
+Outras Observações: Elogiou interoperabilidade com exames externos.
+
+Métricas:
+
+Tempo Médio: 4 min.
+Erros: 0.
+Satisfação: 4.
+Relatório de Testes com Usuário
+Integrante Responsável: Integrante 3
+Usuário Testado: Carlos Admin (Perfil: Administrador, Idade: 50 anos, Experiência: Intermediária)
+Data do Teste: 17/10/2023
+Ambiente: Computador desktop.
+
+Descrição da Tarefa: Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema.
+
+Passos Observados:
+
+Login.
+Adicionou usuário via painel.
+Gerou relatório.
+Problemas Identificados:
+
+Tempo: 5 minutos (meta: 4 minutos).
+Usuário disse: "Relatório demora a carregar; precisa de filtros melhores." (Problema: performance e usabilidade).
+Taxa de sucesso: 100%.
+Sugestões: Otimizar geração de relatórios e adicionar filtros pré-definidos.
+
+Outras Observações: Preocupação com privacidade em relatórios.
+
+Métricas:
+
+Tempo Médio: 5 min.
+Erros: 0.
+Satisfação: 3.
+Como Compilar e Submeter:
+
+Cada integrante envia seu relatório individual.
+Consolide em um documento único (ex.: "Relatórios_Testes_Consolidados.docx"), adicionando uma seção de síntese com problemas comuns (ex.: navegação confusa em todos os perfis) e recomendações gerais (ex.: melhorar menus e adicionar tutoriais).
+Submeta aqui: os 3 relatórios individuais + o consolidado + a planilha heurística consolidada.
 Material de apoio para esta etapa:
 
 
