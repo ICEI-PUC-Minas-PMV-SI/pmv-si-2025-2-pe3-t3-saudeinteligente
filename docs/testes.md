@@ -161,12 +161,13 @@ Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por 
 
 * Relatório de Testes com Usuário:
 ***
+| --- | --- |
 | Integrante Responsável |Integrante 1 |
- Usuário Testado | João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica) |
- Data do Teste | 15/10/2023 |
- Ambiente | Computador desktop em laboratório, sem distrações |
- --- | --- |
-Descrição da Tarefa | Faça login no sistema e visualize seu histórico de consultas e exames|
+| Usuário Testado | João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica) |
+| Data do Teste | 15/10/2023 |
+| Ambiente | Computador desktop em laboratório, sem distrações |
+| --- | --- |
+|Descrição da Tarefa | Faça login no sistema e visualize seu histórico de consultas e exames|
 
 * Passos Observados:
 
