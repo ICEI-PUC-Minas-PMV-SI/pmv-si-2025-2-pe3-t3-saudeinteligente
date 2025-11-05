@@ -6,13 +6,10 @@ Nesta etapa devem ser realizados dois tipos de avaliação: por observação de 
 
 Ao final, os relatórios gerados por cada membro deverão ser disponibilizados aqui, juntamente com a planilha consolidada da avaliação heurística.
 ____________________________________________________________________________________________________________________
-Vou dividir em duas partes principais: Avaliação Heurística e Avaliação por Observação de Sessão de Uso (Testes com Usuários). Incluirei exemplos de como preencher os arquivos mencionados (Avaliação_Heurística.xlsx e Relatório_de_Testes_com_Usuário.docx), com conteúdo fictício mas realista. No final, menciono como compilar e submeter.
 
 ## Avaliação Heurística (Inspeção por Especialistas)
 
 Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heurística.xlsx). Essa avaliação usa heurísticas de usabilidade (como as de Nielsen, por exemplo: visibilidade do status do sistema, correspondência entre sistema e mundo real, controle e liberdade do usuário, etc.) para identificar problemas no sistema sem usuários reais.
-
-
 
 * Como Compilar em Arquivo Único:
 
