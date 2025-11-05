@@ -152,21 +152,21 @@ Um membro (ou o grupo) consolida em uma única planilha, adicionando uma coluna 
 Defina tarefas iguais ao número de integrantes (ex.: 3 tarefas para 3 membros). Cada integrante testa com um usuário distinto (ex.: 3 usuários). Documente no Relatório_de_Testes_com_Usuário.docx, incluindo: descrição das tarefas, perfil do usuário, observações, problemas encontrados, sugestões e métricas (ex.: tempo para completar tarefa, taxa de sucesso).
 
 * Tarefas Definidas (para Grupo de 3):
-
-| Tarefa 1 (para Paciente) | Faça login no sistema e visualize seu histórico de consultas e exames |
-| Tarefa 2 (para Médico) | Faça login, autorize acesso a um paciente específico e registre um diagnóstico |
-| Tarefa 3 (para Administrador) | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema |
+***
+Tarefa 1 (para Paciente)|Faça login no sistema e visualize seu histórico de consultas e exames|
+Tarefa 2 (para Médico)|Faça login, autorize acesso a um paciente específico e registre um diagnóstico|
+Tarefa 3 (para Administrador) | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema|
 
 Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
 
 * Relatório de Testes com Usuário:
-
-|Integrante Responsável|Integrante 1|
-|Usuário Testado| João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica)|
-|Data do Teste| 15/10/2023|
-|Ambiente| Computador desktop em laboratório, sem distrações|
-|--------------------|------------------------------------------------------------------------------|
-|Descrição da Tarefa| Faça login no sistema e visualize seu histórico de consultas e exames|
+***
+Integrante Responsável|Integrante 1|
+Usuário Testado| João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica)|
+Data do Teste| 15/10/2023|
+Ambiente| Computador desktop em laboratório, sem distrações|
+---|---|
+Descrição da Tarefa| Faça login no sistema e visualize seu histórico de consultas e exames|
 
 * Passos Observados:
 
@@ -175,7 +175,7 @@ Navegou para a aba "Histórico".
 Visualizou lista de consultas e clicou em um exame para detalhes.
 
 * Problemas Identificados:
-
+***
 |Tempo para completar| 3 minutos (meta: 2 minutos)|
 |Usuário hesitou na navegação, dizendo| "Onde está o histórico? É confuso." (Problema de usabilidade: menus não intuitivos)|
 |Taxa de sucesso| 100% (concluiu, mas com frustração)|
