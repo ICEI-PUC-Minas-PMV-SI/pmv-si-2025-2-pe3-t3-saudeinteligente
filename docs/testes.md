@@ -8,7 +8,8 @@ Ao final, os relatórios gerados por cada membro deverão ser disponibilizados a
 ____________________________________________________________________________________________________________________
 Vou dividir em duas partes principais: Avaliação Heurística e Avaliação por Observação de Sessão de Uso (Testes com Usuários). Incluirei exemplos de como preencher os arquivos mencionados (Avaliação_Heurística.xlsx e Relatório_de_Testes_com_Usuário.docx), com conteúdo fictício mas realista. No final, menciono como compilar e submeter.
 
-## 1. Avaliação Heurística (Inspeção por Especialistas)
+## Avaliação Heurística (Inspeção por Especialistas)
+
 Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heurística.xlsx). Essa avaliação usa heurísticas de usabilidade (como as de Nielsen, por exemplo: visibilidade do status do sistema, correspondência entre sistema e mundo real, controle e liberdade do usuário, etc.) para identificar problemas no sistema sem usuários reais.
 
 
@@ -18,7 +19,7 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 Cada integrante envia sua planilha preenchida.
 Um membro (ou o grupo) consolida em uma única planilha, adicionando uma coluna "Integrante" para identificar quem identificou cada problema. Por exemplo, combine as linhas de todos e calcule uma severidade média se houver conflitos. Salve como "Avaliação_Heurística_Consolidada.xlsx".
 
-2. Avaliação por Observação de Sessão de Uso (Testes com Usuários)
+Avaliação por Observação de Sessão de Uso (Testes com Usuários)
 Defina tarefas iguais ao número de integrantes (ex.: 3 tarefas para 3 membros). Cada integrante testa com um usuário distinto (ex.: 3 usuários). Documente no Relatório_de_Testes_com_Usuário.docx, incluindo: descrição das tarefas, perfil do usuário, observações, problemas encontrados, sugestões e métricas (ex.: tempo para completar tarefa, taxa de sucesso).
 
 * Tarefas Definidas (para Grupo de 3):
