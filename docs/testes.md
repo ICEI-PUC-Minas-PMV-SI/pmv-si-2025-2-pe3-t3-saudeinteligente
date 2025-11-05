@@ -138,24 +138,24 @@ Gerou relatório.
 |Erros|0|
 |Satisfação|3|
 
-* Como Compilar e Submeter:
+
+ ***
+Como Compilar e Submeter:
 
 Cada integrante envia seu relatório individual.
 Consolide em um documento único (ex.: "Relatórios_Testes_Consolidados.docx"), adicionando uma seção de síntese com problemas comuns (ex.: navegação confusa em todos os perfis) e recomendações gerais (ex.: melhorar menus e adicionar tutoriais).
 Submeta aqui: os 3 relatórios individuais + o consolidado + a planilha heurística consolidada.
 Material de apoio para esta etapa:
-________________________________________________________________________________________________________
-
-
-
-Avaliação Heurística: 
-Avaliação por Observação de Sessão de Uso: Definição de tarefas (4 tarefas, uma por integrante), realização de testes com usuários e documentação em relatório.
+ ***
 
 
 # Avaliação Heurística
 Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heurística.xlsx), avaliando o sistema protótipo com base nas 10 heurísticas de Nielsen (visibilidade do status do sistema, correspondência entre sistema e mundo real, controle e liberdade do usuário, consistência e padrões, prevenção de erros, reconhecimento em vez de lembrança, flexibilidade e eficiência de uso, design estético e minimalista, ajuda aos usuários a reconhecer, diagnosticar e recuperar erros, e ajuda e documentação).
 
+
 ## Preenchimento Individual (para o Integrante 1, focando na Persona 1 - Dra. Ana Beatriz Costa):
+
+
 
 * Heurística 1: Visibilidade do status do sistema
   ***
@@ -163,11 +163,15 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 2. Severidade (escala 1-4, onde 4 é alta): 3 (pode causar frustração em consultas rápidas).
 3. Sugestão: Adicionar indicadores de carregamento para melhorar a percepção de rapidez.
 
+
+
 * Heurística 2: Correspondência entre sistema e mundo real
  ***
 1. Problema identificado: Terminologia médica não é explicada, o que pode confundir médicos com menos experiência.
 2. Severidade: 2.
 3. Sugestão: Incluir glossários integrados.
+
+
 
 * Heurística 3: Controle e liberdade do usuário
   ***
@@ -175,11 +179,15 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 2. Severidade: 3.
 3. Sugestão: Adicionar atalhos de undo/redo.
 
+
+
 * Heurística 4: Consistência e padrões
   ***
 1. Problema identificado: Ícones para "salvar" variam entre telas.
 2. Severidade: 2.
 3. Sugestão: Padronizar ícones conforme guidelines de UI.
+
+
 
 * Heurística 5: Prevenção de erros
   ***
@@ -187,11 +195,15 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 2. Severidade: 4 (risco de erros médicos).
 3. Sugestão: Implementar validações automáticas.
 
+
+
 * Heurística 6: Reconhecimento em vez de lembrança
   ***
 1. Problema identificado: Menus de navegação exigem memorização de caminhos.
 2. Severidade: 3.
 3. Sugestão: Usar breadcrumbs e menus visíveis.
+
+
 
 * Heurística 7: Flexibilidade e eficiência de uso
   ***
@@ -199,11 +211,15 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 2. Severidade: 2.
 3. Sugestão: Adicionar personalização para médicos.
 
+
+
 * Heurística 8: Design estético e minimalista
   ***
 1. Problema identificado: Telas sobrecarregadas com informações desnecessárias.
 2. Severidade: 3.
 3. Sugestão: Simplificar layouts focando no essencial.
+
+
 
 * Heurística 9: Ajuda a reconhecer, diagnosticar e recuperar erros
   ***
@@ -211,11 +227,15 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 2. Severidade: 4.
 3. Sugestão: Fornecer mensagens claras e ações de recuperação.
 
+
+
 * Heurística 10: Ajuda e documentação
   ***
 1. Problema identificado: Falta tutorial integrado para novos usuários.
 2. Severidade: 2.
 3. Sugestão: Incluir tooltips e FAQs.
+
+
 
 ## Compilação Consolidada (Arquivo Único Avaliação_Heurística.xlsx): 
 Após cada integrante preencher sua planilha, compile em uma única tabela.(linhas por heurística, colunas por integrante):
@@ -231,6 +251,8 @@ Essa compilação destaca padrões (ex.: foco em acessibilidade para pacientes e
 ## Avaliação por Observação de Sessão de Uso (Teste com Usuários)
 Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integrante testa com um usuário real (ex.: recrutado via clínica ou simulado), observando a sessão e registrando em Relatório_de_Testes_com_Usuário.docx. Inclua: descrição da tarefa, perfil do usuário, observações, métricas (tempo, erros, satisfação) e recomendações.
 
+
+
 * Tarefas Definidas (para Grupo de 4):
  ***
  
@@ -239,6 +261,8 @@ Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integra
 |Tarefa 2 (Integrante 2, Persona 2 - João Henrique da Silva)| "Visualize seus resultados de exames, histórico médico e próximas consultas; receba uma notificação simulada."|
 |Tarefa 3 (Integrante 3, Persona 3 - Marcos Vinícius Oliveira)| "Receba alertas de consulta, controle exames e acesse um painel administrativo para gerenciar permissões."|
 |Tarefa 4 (Integrante 4, Persona 4 - Carla Mendes Rocha)| "Acesse dashboards para relatórios de produtividade, controle permissões e cadastre um novo médico."|
+
+
 
 * Relatório Individual (para Integrante 1, Tarefa 1):
  ***
@@ -250,6 +274,8 @@ Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integra
 |Observações|Interface intuitiva, mas precisa de integração melhor entre especialidades|X|
 |Sugestão|Adicionar filtros por data/especialidade|X|
 |Recomendações|Melhorar usabilidade para consultas rápidas, alinhando com objetivos da persona|X|
+
+
 
 * Compilação dos Relatórios: Ao final, cada integrante submete seu relatório aqui:
   ***
