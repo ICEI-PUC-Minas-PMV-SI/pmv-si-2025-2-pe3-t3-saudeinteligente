@@ -144,7 +144,7 @@ Detalhar: "Você não tem autorização para acessar dados deste paciente. Conta
 
 Tela de Acesso a Dados
 
-*Como Compilar em Arquivo Único:
+* Como Compilar em Arquivo Único:
 
 Cada integrante envia sua planilha preenchida.
 Um membro (ou o grupo) consolida em uma única planilha, adicionando uma coluna "Integrante" para identificar quem identificou cada problema. Por exemplo, combine as linhas de todos e calcule uma severidade média se houver conflitos. Salve como "Avaliação_Heurística_Consolidada.xlsx".
@@ -188,18 +188,18 @@ Outras Observações: Usuário elogiou a segurança (login rápido), mas sugeriu
 
 * Métricas:
 
-|Tempo Médio| 3 min|
-|Erros| 0|
-|Satisfação (escala 1-5)| 4 (bom, mas pode melhorar)|
+|Tempo Médio|3 min|
+|Erros|0|
+|Satisfação (escala 1-5)|4 (bom, mas pode melhorar)|
 
 * Relatório de Testes com Usuário:
 
 |Integrante Responsável| Integrante 2|
-|Usuário Testado| Dra. Maria Oliveira (Perfil: Médico, Idade: 38 anos, Experiência: Avançada)|
-|Data do Teste| 16/10/2023|
-|Ambiente| Tablet em ambiente clínico simulado|
+|Usuário Testado|Dra. Maria Oliveira (Perfil: Médico, Idade: 38 anos, Experiência: Avançada)|
+|Data do Teste|16/10/2023|
+|Ambiente|Tablet em ambiente clínico simulado|
 |--------------------------|---------------------------------------------------------|
-|Descrição da Tarefa| Faça login, autorize acesso a um paciente específico e registre um diagnóstico|
+|Descrição da Tarefa|Faça login, autorize acesso a um paciente específico e registre um diagnóstico|
 
 * Passos Observados:
 
@@ -209,27 +209,27 @@ Registrou diagnóstico em formulário.
 
 * Problemas Identificados:
 
-|Tempo| 4 minutos (meta: 3 minutos)|
-|Usuária comentou| "A autorização é lenta; precisa de confirmação rápida." (Problema: fluxo de autorização complexo)|
-|Taxa de sucesso| 100%|
-|Sugestões| Simplificar autorização com um botão "Autorizar e Acessar"|
+|Tempo|4 minutos (meta: 3 minutos)|
+|Usuária comentou|"A autorização é lenta; precisa de confirmação rápida." (Problema: fluxo de autorização complexo)|
+|Taxa de sucesso|100%|
+|Sugestões|Simplificar autorização com um botão "Autorizar e Acessar"|
 |-----------------------------|------------------------------------------------------------|
-|Outras Observações| Elogiou interoperabilidade com exames externos|
+|Outras Observações|Elogiou interoperabilidade com exames externos|
 
 * Métricas:
 
-|Tempo Médio| 4 min|
-|Erros| 0|
-|Satisfação| 4|
+|Tempo Médio|4 min|
+|Erros|0|
+|Satisfação|4|
 
 * Relatório de Testes com Usuário:
 
-|Integrante Responsável| Integrante 3|
-|Usuário Testado| Carlos Admin (Perfil: Administrador, Idade: 50 anos, Experiência: Intermediária)|
-|Data do Teste| 17/10/2023|
-|Ambiente| Computador desktop|
+|Integrante Responsável|Integrante 3|
+|Usuário Testado|Carlos Admin (Perfil: Administrador, Idade: 50 anos, Experiência: Intermediária)|
+|Data do Teste|17/10/2023|
+|Ambiente|Computador desktop|
 |--------------|-------------------------------------------|
-|Descrição da Tarefa| Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema|
+|Descrição da Tarefa|Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema|
 
 * Passos Observados:
 
@@ -239,18 +239,18 @@ Gerou relatório.
 
 * Problemas Identificados:
 
-|Tempo| 5 minutos (meta: 4 minutos)|
-|Usuário disse| "Relatório demora a carregar; precisa de filtros melhores." (Problema: performance e usabilidade)|
-|Taxa de sucesso| 100%|
-|Sugestões| Otimizar geração de relatórios e adicionar filtros pré-definidos.
+|Tempo|5 minutos (meta: 4 minutos)|
+|Usuário disse|"Relatório demora a carregar; precisa de filtros melhores." (Problema: performance e usabilidade)|
+|Taxa de sucesso|100%|
+|Sugestões|Otimizar geração de relatórios e adicionar filtros pré-definidos|
 |-----------------------|--------------------------------------------------------|
-|Outras Observações| Preocupação com privacidade em relatórios|
+|Outras Observações|Preocupação com privacidade em relatórios|
 
 * Métricas:
 
-|Tempo Médio| 5 min|
-|Erros| 0|
-|Satisfação| 3|
+|Tempo Médio|5 min|
+|Erros|0|
+|Satisfação|3|
 
 * Como Compilar e Submeter:
 
@@ -343,19 +343,19 @@ Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integra
 
 * Relatório Individual (para Integrante 1, Tarefa 1):
 
-|Perfil do Usuário Testado| Médica de 40 anos, familiarizada com tecnologia, recrutada de uma unidade pública|X|
-|Descrição da Sessão| O usuário logou com sucesso, mas demorou 2 minutos para localizar o histórico devido a navegação confusa. Registrou diagnóstico rapidamente, mas relatou frustração com integração de dados|X|
-|Métricas| Tempo total| 5 minutos; Erros: 1 (clique errado); Satisfação (escala 1-5): 4|
-|Observações| Interface intuitiva, mas precisa de integração melhor entre especialidades|X|
-|Sugestão| Adicionar filtros por data/especialidade|X|
-|Recomendações| Melhorar usabilidade para consultas rápidas, alinhando com objetivos da persona|X|
+|Perfil do Usuário Testado|Médica de 40 anos, familiarizada com tecnologia, recrutada de uma unidade pública|X|
+|Descrição da Sessão|O usuário logou com sucesso, mas demorou 2 minutos para localizar o histórico devido a navegação confusa. Registrou diagnóstico rapidamente, mas relatou frustração com integração de dados|X|
+|Métricas|Tempo total|5 minutos; Erros: 1 (clique errado); Satisfação (escala 1-5): 4|
+|Observações|Interface intuitiva, mas precisa de integração melhor entre especialidades|X|
+|Sugestão|Adicionar filtros por data/especialidade|X|
+|Recomendações|Melhorar usabilidade para consultas rápidas, alinhando com objetivos da persona|X|
 
 * Compilação dos Relatórios: Ao final, cada integrante submete seu relatório aqui:
 
-|Tarefa 1:| Médicos precisam de rapidez; foco em integração de dados|
-|Tarefa 2:| Pacientes com baixa familiaridade precisam simplicidade e notificações|
-|Tarefa 3:| Usuários tech-savvy querem controle e explicações|
-|Tarefa 4:| Administradores precisam dashboards eficientes|
+|Tarefa 1:|Médicos precisam de rapidez; foco em integração de dados|
+|Tarefa 2:|Pacientes com baixa familiaridade precisam simplicidade e notificações|
+|Tarefa 3:|Usuários tech-savvy querem controle e explicações|
+|Tarefa 4:|Administradores precisam dashboards eficientes|
 
 Esses exemplos ajudam a identificar problemas como usabilidade para médicos (rapidez), acessibilidade para pacientes (simplicidade) e eficiência para administradores (relatórios). 
 
