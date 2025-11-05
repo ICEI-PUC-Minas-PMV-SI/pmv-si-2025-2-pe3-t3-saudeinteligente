@@ -11,143 +11,13 @@ Vou dividir em duas partes principais: Avaliação Heurística e Avaliação por
 ## 1. Avaliação Heurística (Inspeção por Especialistas)
 Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heurística.xlsx). Essa avaliação usa heurísticas de usabilidade (como as de Nielsen, por exemplo: visibilidade do status do sistema, correspondência entre sistema e mundo real, controle e liberdade do usuário, etc.) para identificar problemas no sistema sem usuários reais.
 
-## Estrutura da Planilha (Avaliação_Heurística.xlsx):
 
-Colunas típicas: Heurística, Descrição da Heurística, Problema Identificado, Severidade (baixa, média, alta), Sugestão de Correção, Localização no Sistema (tela ou funcionalidade).
-Cada integrante avalia o sistema inteiro, focando em aspectos como login, acesso por perfil, visualização de dados, etc.
-
-## Conteúdo (Preenchido por um Integrante, Digamos, Integrante 1):
-
-1.Heurística
-2.Descrição da Heurística
-3.Problema Identificado
-4.Severidade
-5.Sugestão de Correção
-6.Localização no Sistema
-7.Visibilidade do Status do Sistema
-
-* O sistema deve sempre informar o usuário sobre o que está acontecendo.
-
-Na tela de login, não há feedback imediato se a senha estiver incorreta (apenas uma mensagem genérica após tentativa).
-
-Média
-
-Adicionar mensagem específica (ex.: "Senha incorreta") e indicador de carregamento durante autenticação.
-
-Tela de Login
-
-Correspondência entre Sistema e Mundo Real
-
-O sistema deve usar linguagem e conceitos familiares ao usuário.
-
-Para médicos, termos técnicos em relatórios são muito densos, sem glossário ou explicações simples.
-
-Alta
-
-Incluir tooltips ou glossário integrado para termos médicos.
-
-Relatórios de Diagnósticos
-
-Controle e Liberdade do Usuário
-
-Usuários devem ter controle fácil, com saídas de emergência.
-
-Pacientes não conseguem facilmente cancelar uma consulta agendada sem confirmação excessiva.
-
-Baixa
-
-Adicionar botão "Cancelar" com confirmação simples (um clique).
-
-Tela de Agendamento de Consultas
-
-Consistência e Padrões
-
-O sistema deve seguir convenções consistentes.
-
-Ícones para "Editar" variam entre telas (ex.: lápis vs. engrenagem), confundindo administradores.
-
-Média
-
-Padronizar ícones com base em bibliotecas como Material Design.
-
-Todas as Telas de Administração
-
-Prevenção de Erros
-
-Melhor prevenir erros do que corrigi-los.
-
-Médicos podem inserir datas inválidas em exames sem validação automática.
-
-Alta
-
-Implementar validação de datas (ex.: impedir datas futuras para exames passados).
-
-Formulário de Exames
-
-Reconhecimento em Vez de Recordação
-
-Minimizar carga de memória do usuário.
-
-Senhas de login não têm opção de "lembrar-me" ou recuperação fácil, forçando recordação constante.
-
-Média
-
-Adicionar checkbox "Lembrar-me" e fluxo de recuperação de senha por e-mail.
-
-Tela de Login
-
-Flexibilidade e Eficiência de Uso
-
-Aceleração para usuários experientes.
-
-Administradores precisam navegar por muitas telas para gerenciar usuários, sem atalhos.
-
-Baixa
-
-Adicionar barra de navegação rápida ou atalhos de teclado.
-
-Painel de Administração
-
-Design Estético e Minimalista
-
-Interfaces limpas, sem informações irrelevantes.
-
-Telas de pacientes mostram dados desnecessários (ex.: histórico completo sempre visível), sobrecarregando.
-
-Média
-
-Usar abas ou colapsáveis para organizar informações.
-
-Dashboard do Paciente
-
-Ajuda e Documentação
-
-Fornecer ajuda acessível.
-
-Não há FAQ ou tutoriais embutidos para novos usuários (ex.: médicos aprendendo a autorizar pacientes).
-
-Alta
-
-Integrar um centro de ajuda com guias passo a passo.
-
-Todas as Telas
-
-Recuperação de Erros
-
-Mensagens de erro claras e soluções.
-
-Erro de "Acesso Negado" para médicos não autorizados é vago, sem explicação.
-
-Média
-
-Detalhar: "Você não tem autorização para acessar dados deste paciente. Contate o administrador."
-
-Tela de Acesso a Dados
 
 * Como Compilar em Arquivo Único:
 
 Cada integrante envia sua planilha preenchida.
 Um membro (ou o grupo) consolida em uma única planilha, adicionando uma coluna "Integrante" para identificar quem identificou cada problema. Por exemplo, combine as linhas de todos e calcule uma severidade média se houver conflitos. Salve como "Avaliação_Heurística_Consolidada.xlsx".
+
 2. Avaliação por Observação de Sessão de Uso (Testes com Usuários)
 Defina tarefas iguais ao número de integrantes (ex.: 3 tarefas para 3 membros). Cada integrante testa com um usuário distinto (ex.: 3 usuários). Documente no Relatório_de_Testes_com_Usuário.docx, incluindo: descrição das tarefas, perfil do usuário, observações, problemas encontrados, sugestões e métricas (ex.: tempo para completar tarefa, taxa de sucesso).
 
@@ -159,7 +29,7 @@ Tarefa | Proficional | Discriçao
   Tarefa 2 | Médico | Faça login, autorize acesso a um paciente específico e registre um diagnóstico
   Tarefa 3 | Administrador | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema
 
-Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
+## Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
 
 * Relatório de Testes com Usuário:
 ***
