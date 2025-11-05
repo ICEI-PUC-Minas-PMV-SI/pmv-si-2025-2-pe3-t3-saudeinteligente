@@ -153,19 +153,19 @@ Defina tarefas iguais ao número de integrantes (ex.: 3 tarefas para 3 membros).
 
 * Tarefas Definidas (para Grupo de 3):
 ***
-|Tarefa 1 (para Paciente)|Faça login no sistema e visualize seu histórico de consultas e exames|
-|Tarefa 2 (para Médico)|Faça login, autorize acesso a um paciente específico e registre um diagnóstico|
-|Tarefa 3 (para Administrador) | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema|
+| Tarefa 1 (para Paciente) |Faça login no sistema e visualize seu histórico de consultas e exames |
+| Tarefa 2 (para Médico) | Faça login, autorize acesso a um paciente específico e registre um diagnóstico |
+| Tarefa 3 (para Administrador) | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema |
 
 Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
 
 * Relatório de Testes com Usuário:
 ***
-Integrante Responsável|Integrante 1|
-Usuário Testado| João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica)|
-Data do Teste| 15/10/2023|
-Ambiente| Computador desktop em laboratório, sem distrações|
----|---|
+| Integrante Responsável |Integrante 1 |
+| Usuário Testado | João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica)|
+| Data do Teste | 15/10/2023 |
+| Ambiente | Computador desktop em laboratório, sem distrações |
+| --- | --- |
 Descrição da Tarefa| Faça login no sistema e visualize seu histórico de consultas e exames|
 
 * Passos Observados:
