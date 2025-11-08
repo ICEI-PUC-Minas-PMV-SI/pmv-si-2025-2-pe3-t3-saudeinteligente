@@ -27,14 +27,14 @@ Tarefa | Proficional | Discriçao
   Tarefa 2 | Médico | Faça login, autorize acesso a um paciente específico e registre um diagnóstico
   Tarefa 3 | Administrador | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema
 
-##Questionario de apresentaçao geral do sistema:
+## Questionario de apresentaçao geral do sistema:
 ***
 Você já ouviu falar desse tipo de sistema?
 - [ ] Sim
 - [ ] Nao 
 Caso sim, diga-me o que você sabe sobre:
 
-<<<<<<<<<<<<<<<<<<<Aqui>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<< Aqui continue aqui >>>>>>>>>>>>>>
 
 ## Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
 
