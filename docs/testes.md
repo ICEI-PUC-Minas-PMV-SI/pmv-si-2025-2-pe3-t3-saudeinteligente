@@ -32,13 +32,13 @@ Tarefa | Proficional | Discriçao
 * Relatório de Testes com Usuário:
 ***
 
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
---- | ---
-Integrante Responsável | Integrante 1 |  |
-Usuário Testado | João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica) |  |
-Data do Teste | 15/10/2023 |  |
-Ambiente | Computador desktop em laboratório, sem distrações |  |
-Descrição da Tarefa | Faça login no sistema e visualize seu histórico de consultas e exames |  |
+Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+--- | --- | --- | ---
+|  |Integrante Responsável | Integrante 1 |  |
+|  |Usuário Testado | João Silva (Perfil: Paciente, Idade: 45 anos, Experiência com Tecnologia: Básica) |  |
+|  |Data do Teste | 15/10/2023 |  |
+|  |Ambiente | Computador desktop em laboratório, sem distrações |  |
+|  |Descrição da Tarefa | Faça login no sistema e visualize seu histórico de consultas e exames |  |
 
 * Passos Observados:
 
@@ -48,11 +48,11 @@ Visualizou lista de consultas e clicou em um exame para detalhes.
 
 * Problemas Identificados:
 ***
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
---- | ---
-|Tempo para completar | 3 minutos (meta: 2 minutos)|  |
-|Usuário hesitou na navegação, dizendo| "Onde está o histórico? É confuso." (Problema de usabilidade: menus não intuitivos)|  |
-|Taxa de sucesso| 100% (concluiu, mas com frustração)|  |
+Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+--- | --- | --- | ---
+|  |Tempo para completar | 3 minutos (meta: 2 minutos)|  |
+|  |Usuário hesitou na navegação, dizendo| "Onde está o histórico? É confuso." (Problema de usabilidade: menus não intuitivos)|  |
+|  |Taxa de sucesso| 100% (concluiu, mas com frustração)|  |
 
 * Sugestões de Melhoria:
 
@@ -62,21 +62,21 @@ Outras Observações: Usuário elogiou a segurança (login rápido), mas sugeriu
 
 * Métricas:
   ***
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
---- | --- | ---
-Tempo Médio | 3 min |  |
-Erros | 0 |  |
-Satisfação (escala 1-5) | 4 (bom, mas pode melhorar) |  |
+Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+--- | --- | --- | ---
+|  | Tempo Médio | 3 min |  |
+|  | Erros | 0 |  |
+|  | Satisfação (escala 1-5) | 4 (bom, mas pode melhorar) |  |
 
 * Relatório de Testes com Usuário:
   ***
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
---- | --- | --- 
-|Integrante Responsável| Integrante 2|  |
-|Usuário Testado|Dra. Maria Oliveira (Perfil: Médico, Idade: 38 anos, Experiência: Avançada)|  |
-|Data do Teste|16/10/2023|  |
-|Ambiente|Tablet em ambiente clínico simulado|  |
-|Descrição da Tarefa|Faça login, autorize acesso a um paciente específico e registre um diagnóstico|  |
+Caminhos |  |Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+--- | --- | --- | ---
+|  |Integrante Responsável| Integrante 2|  |
+|  |Usuário Testado|Dra. Maria Oliveira (Perfil: Médico, Idade: 38 anos, Experiência: Avançada)|  |
+|  |Data do Teste|16/10/2023|  |
+|  |Ambiente|Tablet em ambiente clínico simulado|  |
+|  |Descrição da Tarefa|Faça login, autorize acesso a um paciente específico e registre um diagnóstico|  |
 
 * Passos Observados:
 
@@ -86,13 +86,13 @@ Registrou diagnóstico em formulário.
 
 * Problemas Identificados:
  ***
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
---- | --- | ---
-|Tempo|4 minutos (meta: 3 minutos)|  |
-|Usuária comentou|"A autorização é lenta; precisa de confirmação rápida." (Problema: fluxo de autorização complexo)|  |
-|Taxa de sucesso|100%|  |
-|Sugestões|Simplificar autorização com um botão "Autorizar e Acessar"|  |
-|Outras Observações|Elogiou interoperabilidade com exames externos|  |
+Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+--- | --- | --- | ---
+|  |Tempo|4 minutos (meta: 3 minutos)|  |
+|  |Usuária comentou|"A autorização é lenta; precisa de confirmação rápida." (Problema: fluxo de autorização complexo)|  |
+|  |Taxa de sucesso|100%|  |
+|  |Sugestões|Simplificar autorização com um botão "Autorizar e Acessar"|  |
+|  |Outras Observações|Elogiou interoperabilidade com exames externos|  |
 
 * Métricas:
   ***
@@ -104,13 +104,13 @@ Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 
 * Relatório de Testes com Usuário:
   ***
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
---- | --- | ---
-|Integrante Responsável|Integrante 3|  |
-|Usuário Testado|Carlos Admin (Perfil: Administrador, Idade: 50 anos, Experiência: Intermediária)|  |
-|Data do Teste|17/10/2023|  |
-|Ambiente|Computador desktop|  |
-|Descrição da Tarefa|Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema|  |
+Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+--- | --- | --- | ---
+|  |Integrante Responsável|Integrante 3|  |
+|  |Usuário Testado|Carlos Admin (Perfil: Administrador, Idade: 50 anos, Experiência: Intermediária)|  |
+|  |Data do Teste|17/10/2023|  |
+|  |Ambiente|Computador desktop|  |
+|  |Descrição da Tarefa|Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema|  |
 
 * Passos Observados:
 
@@ -120,21 +120,21 @@ Gerou relatório.
 
 * Problemas Identificados:
  ***
-Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
- --- | --- | ---
-|Tempo | 5 minutos (meta: 4 minutos)|  |
-|Usuário disse | "Relatório demora a carregar; precisa de filtros melhores." (Problema: performance e usabilidade)|  |
-|Taxa de sucesso | 100%|  |
-|Sugestões | Otimizar geração de relatórios e adicionar filtros pré-definidos|  |
-|Outras Observações |Preocupação com privacidade em relatórios|  |
+Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+ --- | --- | --- | ---
+|  |Tempo | 5 minutos (meta: 4 minutos)|  |
+|  |Usuário disse | "Relatório demora a carregar; precisa de filtros melhores." (Problema: performance e usabilidade)|  |
+|  |Taxa de sucesso | 100%|  |
+|  |Sugestões | Otimizar geração de relatórios e adicionar filtros pré-definidos|  |
+|  |Outras Observações |Preocupação com privacidade em relatórios|  |
 
 * Métricas:
  ***
- Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
- --- | --- | ---
-|Tempo Médio|5 min|  |
-|Erros|0|  |
-|Satisfação|3|  |
+ Caminhos | | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
+ --- | --- | --- | ---
+|  |Tempo Médio|5 min|  |
+|  |Erros|0|  |
+|  |Satisfação|3|  |
 
 
  ***
