@@ -27,10 +27,26 @@ Tarefa | Proficional | Discriçao
   Tarefa 2 | Médico | Faça login, autorize acesso a um paciente específico e registre um diagnóstico
   Tarefa 3 | Administrador | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema
 
+##Questionario de apresentaçao geral do sistema:
+***
+Você já ouviu falar desse tipo de sistema?
+- [ ] Sim
+- [ ] Nao 
+Caso sim, diga-me o que você sabe sobre:
+
+<<<<<<<<<<<<<<<<<<<Aqui>>>>>>>>>>>>>>
+
 ## Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
 
 * Relatório de Testes com Usuário:
 ***
+
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
 
 Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | --- | ---
@@ -48,6 +64,14 @@ Visualizou lista de consultas e clicou em um exame para detalhes.
 
 * Problemas Identificados:
 ***
+
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | --- | ---
 |  |Tempo para completar | 3 minutos (meta: 2 minutos)|  |
@@ -62,6 +86,14 @@ Outras Observações: Usuário elogiou a segurança (login rápido), mas sugeriu
 
 * Métricas:
   ***
+  
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | --- | ---
 |  | Tempo Médio | 3 min |  |
@@ -70,6 +102,14 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 
 * Relatório de Testes com Usuário:
   ***
+  
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos |  |Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | --- | ---
 |  |Integrante Responsável| Integrante 2|  |
@@ -86,6 +126,14 @@ Registrou diagnóstico em formulário.
 
 * Problemas Identificados:
  ***
+ 
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | --- | ---
 |  |Tempo|4 minutos (meta: 3 minutos)|  |
@@ -96,6 +144,14 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 
 * Métricas:
   ***
+  
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | ---
 |Tempo Médio|4 min|  |
@@ -104,6 +160,14 @@ Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 
 * Relatório de Testes com Usuário:
   ***
+  
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 --- | --- | --- | ---
 |  |Integrante Responsável|Integrante 3|  |
@@ -120,6 +184,14 @@ Gerou relatório.
 
 * Problemas Identificados:
  ***
+ 
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
 Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
  --- | --- | --- | ---
 |  |Tempo | 5 minutos (meta: 4 minutos)|  |
@@ -130,6 +202,14 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 
 * Métricas:
  ***
+ 
+Projeto (Nome do Sistema):
+Equipe:
+					
+Nome do Avaliador:
+Data:            				
+Participante Nº:
+
  Caminhos | | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
  --- | --- | --- | ---
 |  |Tempo Médio|5 min|  |
