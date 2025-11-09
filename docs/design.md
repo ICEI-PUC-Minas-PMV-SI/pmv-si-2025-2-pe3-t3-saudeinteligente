@@ -467,28 +467,8 @@ Entretanto, alguns aspectos de melhoria foram levantados:
 
 * Inserir tutoriais curtos de navegação para novos usuários (especialmente pacientes com menor familiaridade tecnológica).
 
-### 4.4.3. Ações Previstas para o Projeto Final
+## 4.3 Protótipos das Interfaces
+https://www.figma.com/make/q9mYwPfTVS9bunp5z6f8tL/Prontu%C3%A1rio-Eletr%C3%B4nico-Seguro?node-id=0-1&p=f&t=SDz1ubS1JnHshKaj-0&fullscreen=1
 
-Com base nas observações e feedbacks coletados, as seguintes ações serão implementadas na próxima versão do sistema:
-
-1 - Revisão da paleta de cores para atender critérios de contraste (WCAG 2.1).
-
-2 - Criação de atalhos e menus rápidos para funções frequentes.
-
-3 - Inserção de uma tela inicial com tutoriais e dicas rápidas.
-
-4 - Otimização da performance nas telas de consulta e relatórios.
-
-5 - Inclusão de feedbacks visuais mais claros para ações concluídas (salvar, enviar, excluir).
-
-### 4.4.4. Análise Geral
-
-Os resultados consolidados mostraram que 100% dos usuários conseguiram concluir suas tarefas sem ajuda externa, e 75% delas foram realizadas em menos de 5 minutos, o que indica alta usabilidade e intuitividade da interface.
-Os principais pontos fortes destacam-se na organização visual, rapidez de navegação e adequação das funcionalidades aos diferentes perfis de acesso.
-As sugestões levantadas:
-
-1 — como o aumento do contraste visual, criação de atalhos e inclusão de tutoriais 
-
-2 — serão incorporadas à próxima versão do sistema, visando aprimorar a experiência do usuário e fortalecer a eficiência e segurança no uso do Sistema de Prontuário Eletrônico.
-
-Essas melhorias visam aumentar a eficiência, acessibilidade e satisfação do usuário, garantindo que o Sistema de Prontuário Eletrônico seja uma ferramenta moderna, segura e verdadeiramente centrada nas necessidades dos profissionais e pacientes, contribuindo para o fortalecimento da qualidade do atendimento em saúde no Brasil.
+## 4.4 Testes com Protótipos
+https://docs.google.com/document/d/1Shkq_yj8zPVR6CJ4tDZj-G6GYbFlAjq1/edit?usp=sharing&ouid=109444009261177454786&rtpof=true&sd=true
