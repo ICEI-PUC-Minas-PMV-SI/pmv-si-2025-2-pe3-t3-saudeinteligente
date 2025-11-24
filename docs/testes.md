@@ -27,14 +27,6 @@ Tarefa | Proficional | Discriçao
   Tarefa 2 | Médico | Faça login, autorize acesso a um paciente específico e registre um diagnóstico
   Tarefa 3 | Administrador | Faça login, adicione um novo usuário médico e gere um relatório de uso do sistema
 
-## Questionario de apresentaçao geral do sistema:
-***
-Você já ouviu falar desse tipo de sistema?
-- [ ] Sim
-- [ ] Nao 
-Caso sim, diga-me o que você sabe sobre:
-
-<<<<<<<<<<<<<<<<<<< Aqui continue aqui >>>>>>>>>>>>>>
 
 ## Conteúdo do Relatório (Relatório_de_Testes_com_Usuário.docx, Preenchido por Integrante 1):
 
@@ -215,6 +207,46 @@ Participante Nº:
 |  |Tempo Médio|5 min|  |
 |  |Erros|0|  |
 |  |Satisfação|3|  |
+
+
+ ***
+ ## Questionario de apresentaçao geral do sistema:
+***
+Você já ouviu falar desse tipo de sistema?
+- [ ] Sim
+- [ ] Nao 
+Caso sim, diga-me o que você sabe sobre:
+
+Qual foi a sua ipressao sobre as atividades propostas?
+- [ ] Facil
+- [ ] Medio
+- [ ] Dificil
+
+Você acha que este sistema é atual?
+- [ ] Sim
+- [ ] Nao 
+Caso sim, diga-me por quê:
+
+O que voce gostou mais do sistema?
+- [ ] Facil interaçao
+- [ ] Compativel com qualquer idade
+- [ ] Outros:
+
+O que voce menos gostou do sistema?
+- [ ] Dificil interaçao
+- [ ] Imompativel com algumas idade
+- [ ] Outros:
+
+Ha alguma coisa que voce acha que esta faltando no sisstema?
+- [ ] Funçao
+- [ ] INteraçao
+- [ ] Conteudo
+- [ ] Outros:
+
+Voce recomendaria esse sistema para um amigo ou parente?
+- [ ] Sim
+- [ ] Nao
+- [ ] Talvez
 
 
  ***
