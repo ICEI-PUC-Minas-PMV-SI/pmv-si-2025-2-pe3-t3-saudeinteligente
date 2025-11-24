@@ -54,8 +54,8 @@ Usuário inseriu login e senha corretos.
 Navegou para a aba "Histórico".
 Visualizou lista de consultas e clicou em um exame para detalhes.
 
-* Problemas Identificados:
 ***
+* Problemas Identificados:
 
 Projeto (Nome do Sistema):
 Equipe:
@@ -76,8 +76,8 @@ Reorganizar menu principal com ícones maiores e labels claros.
 Adicionar tutorial inicial para pacientes.
 Outras Observações: Usuário elogiou a segurança (login rápido), mas sugeriu notificações por e-mail para novos exames.
 
+ ***
 * Métricas:
-  ***
   
 Projeto (Nome do Sistema):
 Equipe:
@@ -92,8 +92,8 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 |  | Erros | 0 |  |
 |  | Satisfação (escala 1-5) | 4 (bom, mas pode melhorar) |  |
 
+***
 * Relatório de Testes com Usuário:
-  ***
   
 Projeto (Nome do Sistema):
 Equipe:
@@ -116,8 +116,8 @@ Login bem-sucedido.
 Buscou paciente por nome e autorizou acesso.
 Registrou diagnóstico em formulário.
 
-* Problemas Identificados:
  ***
+* Problemas Identificados:
  
 Projeto (Nome do Sistema):
 Equipe:
@@ -134,9 +134,9 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 |  |Sugestões|Simplificar autorização com um botão "Autorizar e Acessar"|  |
 |  |Outras Observações|Elogiou interoperabilidade com exames externos|  |
 
-* Métricas:
   ***
-  
+* Métricas:
+
 Projeto (Nome do Sistema):
 Equipe:
 					
@@ -150,9 +150,9 @@ Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 |Erros|0|  |
 |Satisfação|4|  |
 
-* Relatório de Testes com Usuário:
   ***
-  
+* Relatório de Testes com Usuário:
+
 Projeto (Nome do Sistema):
 Equipe:
 					
@@ -174,8 +174,8 @@ Login.
 Adicionou usuário via painel.
 Gerou relatório.
 
-* Problemas Identificados:
  ***
+* Problemas Identificados:
  
 Projeto (Nome do Sistema):
 Equipe:
@@ -192,8 +192,8 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 |  |Sugestões | Otimizar geração de relatórios e adicionar filtros pré-definidos|  |
 |  |Outras Observações |Preocupação com privacidade em relatórios|  |
 
-* Métricas:
  ***
+* Métricas:
  
 Projeto (Nome do Sistema):
 Equipe:
@@ -211,7 +211,7 @@ Participante Nº:
 
  ***
  ## Questionario de apresentaçao geral do sistema:
-***
+ ***
 Você já ouviu falar desse tipo de sistema?
 - [ ] Sim
 - [ ] Nao 
@@ -266,85 +266,79 @@ Cada integrante do grupo deve preencher uma planilha individual (Avaliação_Heu
 ## Preenchimento Individual (para o Integrante 1, focando na Persona 1 - Dra. Ana Beatriz Costa):
 
 
-
-* Heurística 1: Visibilidade do status do sistema
   ***
+* Heurística 1: Visibilidade do status do sistema
+
 1. Problema identificado: Durante o acesso ao histórico de pacientes, não há feedback visual claro sobre o carregamento de dados (ex.: spinner ou barra de progresso).
 2. Severidade (escala 1-4, onde 4 é alta): 3 (pode causar frustração em consultas rápidas).
 3. Sugestão: Adicionar indicadores de carregamento para melhorar a percepção de rapidez.
 
 
-
-* Heurística 2: Correspondência entre sistema e mundo real
  ***
+* Heurística 2: Correspondência entre sistema e mundo real
+
 1. Problema identificado: Terminologia médica não é explicada, o que pode confundir médicos com menos experiência.
 2. Severidade: 2.
 3. Sugestão: Incluir glossários integrados.
 
 
-
+ ***
 * Heurística 3: Controle e liberdade do usuário
-  ***
+
 1. Problema identificado: Não há botão de "cancelar" fácil durante o registro de diagnósticos.
 2. Severidade: 3.
 3. Sugestão: Adicionar atalhos de undo/redo.
 
 
-
+***
 * Heurística 4: Consistência e padrões
-  ***
+
 1. Problema identificado: Ícones para "salvar" variam entre telas.
 2. Severidade: 2.
 3. Sugestão: Padronizar ícones conforme guidelines de UI.
 
-
-
+***
 * Heurística 5: Prevenção de erros
-  ***
+
 1. Problema identificado: Falta validação em tempo real para prescrições (ex.: alertas para dosagens incorretas).
 2. Severidade: 4 (risco de erros médicos).
 3. Sugestão: Implementar validações automáticas.
 
-
-
+***
 * Heurística 6: Reconhecimento em vez de lembrança
-  ***
+
 1. Problema identificado: Menus de navegação exigem memorização de caminhos.
 2. Severidade: 3.
 3. Sugestão: Usar breadcrumbs e menus visíveis.
 
-
-
+ ***
 * Heurística 7: Flexibilidade e eficiência de uso
-  ***
+ 
 1. Problema identificado: Interface não se adapta a usuários experientes (ex.: atalhos de teclado ausentes).
 2. Severidade: 2.
 3. Sugestão: Adicionar personalização para médicos.
 
 
-
+***
 * Heurística 8: Design estético e minimalista
-  ***
+
 1. Problema identificado: Telas sobrecarregadas com informações desnecessárias.
 2. Severidade: 3.
 3. Sugestão: Simplificar layouts focando no essencial.
 
-
-
-* Heurística 9: Ajuda a reconhecer, diagnosticar e recuperar erros
   ***
+* Heurística 9: Ajuda a reconhecer, diagnosticar e recuperar erros
+
 1. Problema identificado: Mensagens de erro são vagas (ex.: "Erro 404" sem explicação).
 2. Severidade: 4.
 3. Sugestão: Fornecer mensagens claras e ações de recuperação.
 
-
-
-* Heurística 10: Ajuda e documentação
   ***
+* Heurística 10: Ajuda e documentação
+
 1. Problema identificado: Falta tutorial integrado para novos usuários.
 2. Severidade: 2.
 3. Sugestão: Incluir tooltips e FAQs.
-
 
 
 ## Compilação Consolidada (Arquivo Único Avaliação_Heurística.xlsx): 
@@ -362,9 +356,9 @@ Essa compilação destaca padrões (ex.: foco em acessibilidade para pacientes e
 Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integrante testa com um usuário real (ex.: recrutado via clínica ou simulado), observando a sessão e registrando em Relatório_de_Testes_com_Usuário.docx. Inclua: descrição da tarefa, perfil do usuário, observações, métricas (tempo, erros, satisfação) e recomendações.
 
 
-
-* Tarefas Definidas (para Grupo de 4):
  ***
+* Tarefas Definidas (para Grupo de 4):
+
  
 |Tarefa 1 (Integrante 1, Persona 1 - Dra. Ana Beatriz Costa)| "Acesse o histórico de um paciente autorizado, registre um diagnóstico e prescrição, e encaminhe para outra especialidade."|
 --- | ---
@@ -373,9 +367,9 @@ Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integra
 |Tarefa 4 (Integrante 4, Persona 4 - Carla Mendes Rocha)| "Acesse dashboards para relatórios de produtividade, controle permissões e cadastre um novo médico."|
 
 
-
-* Relatório Individual (para Integrante 1, Tarefa 1):
  ***
+* Relatório Individual (para Integrante 1, Tarefa 1):
+
  
 |Perfil do Usuário Testado|Médica de 40 anos, familiarizada com tecnologia, recrutada de uma unidade pública|  |
 --- | --- | ---
@@ -386,9 +380,9 @@ Defina 4 tarefas (uma por integrante, correspondendo às personas). Cada integra
 |Recomendações|Melhorar usabilidade para consultas rápidas, alinhando com objetivos da persona|X|
 
 
-
-* Compilação dos Relatórios: Ao final, cada integrante submete seu relatório aqui:
   ***
+* Compilação dos Relatórios: Ao final, cada integrante submete seu relatório aqui:
+
 Tarefa |   |
 --- | ---
 |Tarefa 1:|Médicos precisam de rapidez; foco em integração de dados|
