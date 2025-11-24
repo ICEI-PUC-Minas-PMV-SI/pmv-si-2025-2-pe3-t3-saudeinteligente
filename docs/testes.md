@@ -33,7 +33,7 @@ Tarefa | Proficional | Discriçao
 * Relatório de Testes com Usuário:
 ***
 
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -57,7 +57,7 @@ Visualizou lista de consultas e clicou em um exame para detalhes.
 ***
 * Problemas Identificados:
 
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -79,7 +79,7 @@ Outras Observações: Usuário elogiou a segurança (login rápido), mas sugeriu
  ***
 * Métricas:
   
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -95,7 +95,7 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
 ***
 * Relatório de Testes com Usuário:
   
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -119,7 +119,7 @@ Registrou diagnóstico em formulário.
  ***
 * Problemas Identificados:
  
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -137,7 +137,7 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
   ***
 * Métricas:
 
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -153,7 +153,7 @@ Caminhos | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
   ***
 * Relatório de Testes com Usuário:
 
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -177,7 +177,7 @@ Gerou relatório.
  ***
 * Problemas Identificados:
  
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
@@ -195,7 +195,7 @@ Caminhos |  | Sucesso na execuçao da tarefa | Anotaçoes/Observaçoes |
  ***
 * Métricas:
  
-Projeto (Nome do Sistema):
+Projeto:
 Equipe:
 					
 Nome do Avaliador:
