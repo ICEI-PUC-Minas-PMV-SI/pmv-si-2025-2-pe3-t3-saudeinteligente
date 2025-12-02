@@ -469,6 +469,14 @@ Entretanto, alguns aspectos de melhoria foram levantados:
 
 ## 4.3 Protótipos das Interfaces
 https://www.figma.com/make/q9mYwPfTVS9bunp5z6f8tL/Prontu%C3%A1rio-Eletr%C3%B4nico-Seguro?node-id=0-1&p=f&t=SDz1ubS1JnHshKaj-0&fullscreen=1
+médico
+<img width="1356" height="917" alt="image" src="https://github.com/user-attachments/assets/8c953fe8-3e3d-4ba0-9d18-a4f17a8ded56" />
+<img width="1273" height="639" alt="image" src="https://github.com/user-attachments/assets/627ac6f3-4dfe-4a07-a30c-ab4e6421a189" />
+paciente
+<img width="1298" height="663" alt="image" src="https://github.com/user-attachments/assets/cad7eefa-59aa-4b3a-9ef5-32d19ee83940" />
+<img width="1268" height="585" alt="image" src="https://github.com/user-attachments/assets/609469ee-150b-43f8-a8a8-9791c96bd8fa" />
+
+
 
 ## 4.4 Testes com Protótipos
 https://docs.google.com/document/d/1Shkq_yj8zPVR6CJ4tDZj-G6GYbFlAjq1/edit?usp=sharing&ouid=109444009261177454786&rtpof=true&sd=true
